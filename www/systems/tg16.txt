@@ -1,0 +1,150 @@
+     1	4 in 1 Super CD
+     2	Aero Blasters
+     3	Air Zonk
+     4	Akumajou Dracula X: Chi no Rondo
+     5	Alien Crush
+     6	Andre Panza Kick Boxing
+     7	Ballistix
+     8	Battle Lode Runner
+     9	Battle Royale
+    10	Beyond Shadowgate
+    11	Blazing Lazers
+    12	Bloody Wolf
+    13	Bomberman
+    14	Bomberman '93
+    15	Bomberman '94
+    16	Bonk's Adventure
+    17	Bonk's Revenge
+    18	Bonk 3: Bonk's Big Adventure
+    19	Bonk 3: Bonk's Big Adventure CD
+    20	Boxyboy
+    21	Bravoman
+    22	Break In
+    23	Buster Bros.
+    24	Cadash
+    25	Camp California
+    26	Champions Forever Boxing
+    27	Chase H.Q.
+    28	Chew-Man-Fu
+    29	China Warrior
+    30	Cho Aniki
+    31	Cosmic Fantasy 2
+    32	Cratermaze
+    33	Cyber-Core
+    34	Darkwing Duck
+    35	Davis-Cup Tennis
+    36	Dead Moon
+    37	Deep Blue
+    38	Detana!! TwinBee
+    39	Devil's Crush
+    40	Digital Champ
+    41	Disney's TaleSpin
+    42	Double Dungeons
+    43	Dragon's Curse
+    44	Dragon Slayer: The Legend of Heroes
+    45	Dragon Spirit
+    46	Drop Off
+    47	Dungeon Explorer
+    48	Dungeon Explorer II
+    49	Dungeon Master: Theron's Quest
+    50	Dungeons & Dragons: Order of the Griffon
+    51	Exile
+    52	Exile: Wicked Phenomenon
+    53	Falcon
+    54	Fantastic Night Dreams: Cotton
+    55	Fantasy Zone
+    56	Fighting Street
+    57	Final Lap Twin
+    58	Final Soldier
+    59	Final Zone II
+    60	Forgotten Worlds
+    61	Galaga '90
+    62	Gate of Thunder
+    63	Ghost Manor
+    64	Godzilla
+    65	Gradius II: Gofer no Yabou
+    66	Gunboat
+    67	Hit the Ice
+    68	Impossamole
+    69	It Came From The Desert
+    70	J.B. Harold Murder Club
+    71	J.J. & Jeff
+    72	Jack Nicklaus' World Golf Tour
+    73	Jack Nicklaus: Turbo Golf
+    74	Jackie Chan's Action Kung Fu
+    75	John Madden Duo CD Football
+    76	Keith Courage in Alpha Zones
+    77	King of Casino
+    78	Klax
+    79	Last Alert
+    80	Legendary Axe II
+    81	Legend of Hero Tonma
+    82	Loom
+    83	Lords of Thunder
+    84	Lords of the Rising Sun
+    85	Magical Chase
+    86	Magical Dinosaur Tour
+    87	Might and Magic III: Isles of Terra
+    88	Military Madness
+    89	Moto Roader
+    90	Neutopia
+    91	Neutopia II
+    92	New Adventure Island
+    93	Night Creatures
+    94	Ninja Spirit
+    95	Ordyne
+    96	Pac-Land
+    97	Parasol Stars: The Story of Bubble Bobble III
+    98	Power Golf
+    99	Prince of Persia
+   100	Psychosis
+   101	R-Type
+   102	Raiden
+   103	Riot Zone
+   104	Samurai Ghost
+   105	Shadow of the Beast
+   106	Shapeshifter: Makai Eiyuuden
+   107	Sherlock Holmes Consulting Detective
+   108	Sherlock Holmes Consulting Detective Volume 2
+   109	Shockman
+   110	Side Arms
+   111	Silent Debuggers
+   112	SimEarth: The Living Planet
+   113	Sinistron
+   114	Soldier Blade
+   115	Somer Assault
+   116	Sonic Spike
+   117	Space Harrier
+   118	Splash Lake
+   119	Splatterhouse
+   120	Star Parodier
+   121	Street Fighter II: Champion Edition
+   122	Super Air Zonk
+   123	Super Star Soldier
+   124	Super Volleyball
+   125	TV Sports Basketball
+   126	TV Sports Football
+   127	TV Sports Hockey
+   128	Takin' It to the Hoop
+   129	Terraforming
+   130	The Addams Family
+   131	The Dynastic Hero
+   132	The Legendary Axe
+   133	Tiger Road
+   134	Time Cruise
+   135	Timeball
+   136	Tricky Kick
+   137	Turrican
+   138	Valis II
+   139	Valis III
+   140	Vasteel
+   141	Veigues Tactical Gladiator
+   142	Victory Run
+   143	Vigilante
+   144	Wonder Boy III: Monster Lair
+   145	World Class Baseball
+   146	World Court Tennis
+   147	World Sports Competition
+   148	Yo' Bro
+   149	Ys Book I & II
+   150	Ys III: Wanderers From Ys

@@ -1,0 +1,147 @@
+     1	3 Count Bout
+     2	Aero Fighters 2 
+     3	Aero Fighters 3 
+     4	Aggressors of Dark Kombat 
+     5	Andro Dunos
+     6	Art of Fighting
+     7	Art of Fighting 2
+     8	Art of Fighting 3 - The Path of the Warrior
+     9	ASO II: Last Guardian
+    10	Bang Bead
+    11	Baseball Stars Professional
+    12	Baseball Stars 2
+    13	Battle Flip Shot
+    14	Blazing Star
+    15	Blue's Journey 
+    16	Bomberman: Panic Bomber	
+    17	Breakers	
+    18	Breakers Revenge	
+    19	Burning Fight	
+    20	Captain Tomaday	
+    21	Crossed Swords	
+    22	Cyber-Lip	
+    23	Double Dragon	
+    24	Digger Man 
+    25	Eight Man
+    26	Far East of Eden: Kabuki Klash
+    27	Fast Striker
+    28	Fatal Fury: King of Fighters 
+    29	Fatal Fury 2 
+    30	Fatal Fury 3: Road to the Final Victory 
+    31	Fatal Fury Special 
+    32	Fight Fever
+    33	Fighter's History Dynamite
+    34	Football Frenzy
+    35	Galaxy Fight: Universal Warriors
+    36	Ganryu 
+    37	Garou: Mark of the Wolves
+    38	Ghost Pilots
+    39	Ghostlop
+    40	Goal! Goal! Goal!
+    41	Gunlord
+    42	Gururin	Face
+    43	Jockey Grand Prix
+    44	King of the Monsters
+    45	King of the Monsters 2: The Next Thing
+    46	Kizuna Encounter 
+    47	Last Hope
+    48	Last Resort
+    49	League Bowling
+    50	Legend of Success Joe
+    51	Magical Drop II	Data East
+    52	Magical Drop III
+    53	Magician Lord
+    54	Power Instinct Matrimelee 
+    55	Metal Slug
+    56	Metal Slug 2
+    57	Metal Slug 3
+    58	Metal Slug 4
+    59	Metal Slug 5
+    60	Metal Slug X
+    61	Money Idol Exchanger
+    62	Mutation Nation	
+    63	NAM-1975
+    64	Neo Bomberman
+    65	Neo Drift Out: New Technology
+    66	Neo Geo Cup '98: The Road to the Victory
+    67	Neo Mr. Do!
+    68	Neo Pong
+    69	Neo Turf Masters 
+    70	Nightmare in the Dark
+    71	Ninja Combat
+    72	Ninja Commando
+    73	Ninja Masters
+    74	Over Top
+    75	Pleasure Goal: 5 on 5 Mini Soccer 
+    76	Pochi & Nyaa	Aiky / Taito
+    77	Pop 'n Bounce 
+    78	Power Spikes II	
+    79	Prehistoric Isle 2 
+    80	Pulstar	
+    81	Puzzle Bobble
+    82	Puzzle Bobble 2	
+    83	Puzzle De Pon
+    84	Puzzle de Pon! R
+    85	Puzzled 
+    86	Rage of the Dragons
+    87	Ragnagard
+    88	Real Bout Fatal Fury 
+    89	Real Bout Fatal Fury 2: The Newcomers 
+    90	Real Bout Fatal Fury Special
+    91	Riding Hero
+    92	Robo Army
+    93	Samurai Shodown 
+    94	Samurai Shodown II
+    95	Samurai Shodown III
+    96	Samurai Shodown IV
+    97	Samurai Shodown V
+    98	Samurai Shodown V Special
+    99	Savage Reign
+   100	Sengoku
+   101	Sengoku 2
+   102	Sengoku 3
+   103	Shock Troopers
+   104	Shock Troopers: 2nd Squad
+   105	SNK vs. Capcom: SVC Chaos
+   106	Soccer Brawl
+   107	Spinmaster
+   108	Stakes Winner
+   109	Stakes Winner 2	Saurus
+   110	Street Hoop / Street Slam
+   111	Strikers 1945 Plus
+   112	Super Baseball 2020
+   113	Super Dodge Ball
+   114	Super Sidekicks
+   115	Super Sidekicks 2: The World Championship 
+   116	Super Sidekicks 3: The Next Glory
+   117	Tecmo World Soccer '96
+   118	The Irritating Maze
+   119	The King of Fighters '94
+   120	The King of Fighters '95
+   121	The King of Fighters '96
+   122	The King of Fighters '97
+   123	The King of Fighters '98 
+   124	The King of Fighters '99
+   125	The King of Fighters 2000
+   126	The King of Fighters 2001
+   127	The King of Fighters 2002
+   128	The King of Fighters 2003
+   129	The Last Blade
+   130	The Last Blade 2
+   131	The Super Spy
+   132	Thrash Rally
+   133	Top Hunter: Roddy & Cathy
+   134	Top Player's Golf
+   135	Twinkle Star Sprites
+   136	The Ultimate 11: SNK Football Championship
+   137	V-Liner	Brezzasoft
+   138	Viewpoint
+   139	Voltage Fighter Gowcaizer
+   140	Waku Waku 7
+   141	Windjammers 
+   142	World Heroes
+   143	World Heroes 2
+   144	World Heroes 2 Jet
+   145	World Heroes Perfect
+   146	Zed Blade 
+   147	Zupapa!

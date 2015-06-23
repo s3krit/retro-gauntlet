@@ -1,0 +1,1923 @@
+     1	10-Yard Fight
+     2	10th Frame
+     3	100m Slith
+     4	10000 Meters
+     5	180
+     6	19 Part One: Boot Camp
+     7	1942
+     8	1943: One Year After
+     9	1943: The Battle of Midway
+    10	1985: The Day After
+    11	1994: Ten Years After
+    12	1st Division Manager
+    13	2001
+    14	221B Baker Street
+    15	3-D Breakout
+    16	3-D Labyrinth
+    17	3-D Skramble
+    18	3D Construction Kit
+    19	3D Glooper
+    20	3D Tanx
+    21	4 Soccer Simulators
+    22	4th & Inches
+    23	4x4 Off-Road Racing
+    24	50 Mission Crush
+    25	5th Gear
+    26	720°
+    27	720° Part 2
+    28	Aaargh!
+    29	Aardvark
+    30	ABC Monday Night Football
+    31	Abrakadabra
+    32	Abyss
+    33	Accolade's Comics
+    34	ACE - Air Combat Emulator
+    35	ACE II
+    36	ACE 2088
+    37	Ace Harrier
+    38	Ace of Aces
+    39	Acrojet
+    40	Action Biker
+    41	Action Fighter
+    42	Action Force
+    43	The Activision Decathlon
+    44	The Addams Family
+    45	Addicta Ball
+    46	ADIDAS Championship Football
+    47	Adrenalin
+    48	Adult Poker
+    49	Advance to Boardwalk
+    50	Advanced Dungeons & Dragons: Heroes of the Lance
+    51	Advanced Basketball Simulator
+    52	Advanced Pinball Simulator
+    53	Adventure Construction Set
+    54	Adventure Master
+    55	Adventure Quest
+    56	Adventureland
+    57	After Burner
+    58	After The War
+    59	Afterlife
+    60	Afterlife II
+    61	Afterlife v1.0
+    62	Afterlife v2.0
+    63	Aftermath
+    64	Agent Orange
+    65	Agent USA
+    66	Agent X
+    67	Agent X II: The Mad Prof's Back
+    68	Ah Diddums
+    69	Air Support
+    70	Airborne Ranger
+    71	Airwolf
+    72	Airwolf II
+    73	Ajax
+    74	Alcazar: The Forgotten Fortress
+    75	ALF: The First Adventure
+    76	Alf in the Color Caves
+    77	Alice in Videoland
+    78	Alice in Wonderland
+    79	Alien (graphics adventure)
+    80	Alien
+    81	Alien 3
+    82	Alien Storm
+    83	Alien Syndrome
+    84	Aliens: The Computer Game
+    85	Alter Ego
+    86	Alleykat
+    87	Altered Beast
+    88	Alter Ego: Female Version
+    89	Alter Ego: Male Version
+    90	Alternate Reality: The City
+    91	Alternate Reality: The Dungeon
+    92	Alternative World Games
+    93	Amadeus Revenge
+    94	Amaurote
+    95	The Amazing Spider-Man
+    96	Amazon Warrior
+    97	Amazon
+    98	America's Cup
+    99	American Tag-Team Wrestling
+   100	Amnesia
+   101	Anarchy
+   102	Andy Capp: The Game
+   103	Annals of Rome
+   104	Annihilator
+   105	Annihilator II
+   106	Another World (1990) (Double Density)
+   107	Another World (1991) (CP Verlag)
+   108	Another World (1992) (X-Ample)
+   109	Ant Attack
+   110	Antimonopoly
+   111	Antiriad
+   112	Apache
+   113	Apache Gold
+   114	Apache Strike
+   115	Apocalypse Now
+   116	Apollo 18: Mission to the Moon
+   117	Apple Cider Spider
+   118	Arabian
+   119	Arac
+   120	Arachnophobia
+   121	The Arc of Yesod
+   122	Arcade Classics
+   123	Arcade Flight Simulator
+   124	Arcade Fruit Machine: Cash 'n' Grab
+   125	Arcade Game Construction Kit
+   126	Arcade Pilot
+   127	Arcade Trivia Quiz
+   128	Arcade Volleyball
+   129	Arcana
+   130	Archipelago
+   131	Archon: The Light and the Dark
+   132	Archon II: Adept
+   133	Archon III: Exciter
+   134	Arc of Yesod
+   135	Arcticfox
+   136	Ardy the Aardvark
+   137	Arena Football
+   138	Arkanoid
+   139	Arkanoid: Revenge of Doh
+   140	Armageddon
+   141	Armageddon Files, The
+   142	Armageddon Man, The
+   143	Armalyte
+   144	Armalyte - Competition Edition
+   145	Armalyte II
+   146	Armourdillo
+   147	Army Moves
+   148	Army Moves II
+   149	Arnie
+   150	Arnie II
+   151	Artillery Duel
+   152	Artura
+   153	Asterix and the Magic Cauldron
+   154	The Astonishing Adventures of Mr. Weems and the She Vampires
+   155	Astro-Grover
+   156	Asylum
+   157	Ataxx
+   158	ATC - Air Traffic Controller
+   159	ATF
+   160	Athena
+   161	Atlantis
+   162	Atlantis Lode Runner
+   163	Atomic Robo-Kid
+   164	Atomino
+   165	Atomix
+   166	Attack Chopper!
+   167	Attack of the Mutant Camels
+   168	ATV Simulator
+   169	Auf Wiedersehen Monty
+   170	Auf Wiedersehen Pet
+   171	Aufstand der Sioux
+   172	Auggie Doggie and Doggie Daddy
+   173	Aussie Games
+   174	Auto Mania
+   175	Autoduel
+   176	Avenger
+   177	Avenger (Way of the Tiger II)
+   178	Avengers
+   179	Avoid the Noid
+   180	Aztec
+   181	Aztec Challenge
+   182	Aztec Tomb
+   183	Aztec Tomb Revisited
+   184	B-1 Nuclear Bomber
+   185	B-24
+   186	B.A.T.
+   187	B.C. Bill
+   188	B.C.'s Quest for Tires
+   189	B.C. II: Grog's Revenge
+   190	Baal
+   191	Back to the Future
+   192	Back to the Future Part II
+   193	Back to the Future Part III
+   194	Backgammon
+   195	Bad Blood
+   196	Bad Dudes Vs. Dragon Ninja
+   197	Bad Street Brawler
+   198	Badballs
+   199	Badlands
+   200	Bagitman
+   201	Ballblazer
+   202	Ballistix
+   203	Balloonacy
+   204	Ballyhoo
+   205	Baltic 1985: Corridor to Berlin
+   206	Bangers & Mash
+   207	Bangkok Knights
+   208	Bank Panic
+   209	Barbarian
+   210	Barbarian II: The Dungeon of Drax
+   211	Barbarian: The Ultimate Warrior
+   212	Barbie
+   213	The Bard's Tale
+   214	The Bard's Tale II: The Destiny Knight
+   215	The Bard's Tale III: Thief of Fate
+   216	Barry McGuigan World Championship Boxing
+   217	Basil the Great Mouse Detective
+   218	Basket Master
+   219	Batman
+   220	Batman: The Caped Crusader
+   221	Battle Chess (1989) by Interplay
+   222	Battle Chess (1992)
+   223	Battle Through Time
+   224	Battle Valley
+   225	Battles of Napoleon
+   226	Battleships
+   227	BattleTech: The Crescent Hawk's Inception
+   228	Battlezone
+   229	Batty
+   230	Bay Street
+   231	Bazooka Bill
+   232	Beach Buggy Simulator
+   233	Beach-Head
+   234	Beach Head II: The Dictator Strikes Back
+   235	Beach Head III
+   236	Beach Volley
+   237	Beamrider
+   238	Bear Bovver
+   239	Bee 52
+   240	Below the Root
+   241	Betrayal
+   242	Better Dead Than Alien
+   243	Beverly Hills Cop
+   244	Beyond Castle Wolfenstein
+   245	Beyond Dark Castle
+   246	Beyond the Black Hole
+   247	Beyond the Forbidden Forest
+   248	Beyond the Ice Palace
+   249	Big Deal, The
+   250	Big Game Fishing
+   251	Big Mac
+   252	Big Trouble in Little China
+   253	Bill & Ted's Excellent Adventure
+   254	Bionic Commando by Go!
+   255	Bionic Commando (USA Version) by Capcom
+   256	The Birds and the Bees II: Antics
+   257	Black Crystal
+   258	Black Gold (1983) by Photronics
+   259	Black Gold (1989) by reLINE Software
+   260	Black Gold (1992) by Starbyte Software
+   261	Black Hawk
+   262	Black Lamp
+   263	Black Magic
+   264	Black Tiger
+   265	Blackwyche
+   266	The Blade of Blackpool
+   267	Blade Runner
+   268	Blades of Steel
+   269	Blagger
+   270	Blagger Construction Set
+   271	Blagger goes to Hollywood
+   272	Blasteroids
+   273	Blinky's Scary School
+   274	Blitzkrieg
+   275	Blockout
+   276	Blood Brothers
+   277	Blood Money
+   278	Bloodwych
+   279	Blue Encounter, The
+   280	Blue Max
+   281	Blue Max 2001
+   282	Blue Moon
+   283	Blue Thunder
+   284	Blues Brothers, The
+   285	BMX Kidz
+   286	BMX Simulator
+   287	BMX Racers by Mastertronic
+   288	Bobby Bearing
+   289	The Boggit
+   290	Bomb Jack
+   291	Bomb Jack 2
+   292	Bombo
+   293	Bombuzal
+   294	Bonanza Bros.
+   295	Bonecruncher
+   296	Bonka
+   297	Booty
+   298	Bop'n Rumble
+   299	Bop'n Wrestle
+   300	Border Zone
+   301	Bored of the Rings
+   302	Borrowed Time
+   303	Bosconian
+   304	Boss
+   305	Boulder Dash
+   306	Boulder Dash II: Rockford's Revenge
+   307	Boulder Dash III
+   308	Boulder Dash Construction Kit
+   309	Bounces
+   310	Bounder
+   311	Bounty Bob
+   312	Bounty Bob Strikes Back!
+   313	Bozo's Night Out
+   314	Bram Stoker's Dracula
+   315	BraveStarr
+   316	Break Dance
+   317	Breakout
+   318	Breakout Construction Kit
+   319	Breakstreet
+   320	Breakthrough In The Ardennes
+   321	Breakthru
+   322	Brian Bloodaxe
+   323	Brian Jacks Superstar Challenge
+   324	Brian Jack's Uchi Mata
+   325	BrickFast
+   326	Bride of Frankenstein
+   327	Bristles
+   328	Broadsides
+   329	Bruce Lee
+   330	Bubble Bobble
+   331	Bubble Dizzy
+   332	Bubble Ghost
+   333	Buck Rogers: Planet of Zoom
+   334	Buck Rogers: Countdown to Doomsday
+   335	Budokan - The Martial Spirit
+   336	Bugaboo (The Flea)
+   337	Buggy Boy
+   338	Bugsy
+   339	Bumpin' Buggies
+   340	Bundesliga 98/99
+   341	Bundesliga Live
+   342	Bundesliga Manager
+   343	Bundesliga Manager v2.0
+   344	Bundesliga Manager v3.0
+   345	Bundesliga Manager Polish Version
+   346	BurgerTime
+   347	Burger Time '97
+   348	Burnin' Rubber
+   349	Bushido
+   350	Butasan
+   351	Butcher Hill
+   352	By Fair Means or Foul
+   353	Cabal
+   354	California Games
+   355	Camelot Warriors
+   356	Captain America in: The Doom Tube of Dr. Megalomann
+   357	Captain Blood
+   358	Captain Dynamo
+   359	Captain Fizz
+   360	Captain Power
+   361	The Captive
+   362	Capture The Flag
+   363	Captured
+   364	Card Sharks
+   365	Carnage
+   366	Carrier Command
+   367	Castle Master
+   368	Castle Nightmare
+   369	Castle of Terror
+   370	Castle Wolfenstein
+   371	The Castles of Dr. Creep
+   372	Castlevania
+   373	Catalypse
+   374	Catastrophes
+   375	Cauldron
+   376	Cauldron II: The Pumpkin Strikes Back
+   377	Cave Fighter
+   378	Cave of the Word Wizard
+   379	Cavelon
+   380	Cavelon II
+   381	Caveman Games
+   382	Caveman Ughlympics
+   383	Centipede
+   384	Challenge of the Gobots
+   385	Chambers of Shaolin
+   386	Champions of Krynn
+   387	Championship Baseball
+   388	Championship Lode Runner
+   389	Championship Lode Runner: Extended Edition
+   390	Championship Lode Runner: Training Missions
+   391	Championship Sprint
+   392	Championship Wrestling
+   393	Chase H.Q.
+   394	Chernobyl
+   395	Cheese Graphics Editor
+   396	Chess 7.0
+   397	Chess 7.5: How About a Nice Game of Chess!
+   398	Chess Analyse
+   399	Chess Champion
+   400	Chess Grand Master
+   401	Chess Quarto
+   402	The Chessmaster 2000
+   403	Chicago
+   404	Chiller
+   405	Chimera
+   406	China Miner
+   407	Chip's Challenge
+   408	ChipWits
+   409	Cholo
+   410	Choplifter
+   411	Chubbie Chester
+   412	Chubby Gristle
+   413	Chuck Norris Superkicks
+   414	Chuck Rock
+   415	Chuck Yeager's Advanced Flight Trainer
+   416	Chuck Yeager's Flight Trainer
+   417	Chuckie Egg
+   418	Chuckie Egg 2
+   419	Circus Charlie
+   420	Circus Games
+   421	Cisco Heat
+   422	Citadel
+   423	CJ in the USA
+   424	CJ's Elephant Antics
+   425	Classic Concentration
+   426	Classic Empire
+   427	Clever & Smart
+   428	Cliffhanger
+   429	Cliffhanger: A Perilous Climb
+   430	Cloud Kingdoms
+   431	Clowns
+   432	Clue Master Detective
+   433	Clue!
+   434	Cluedo
+   435	Clystron
+   436	Cobra
+   437	Coco Notes
+   438	Colonial Conquest
+   439	Colony by Mastertronic
+   440	Colony (1996) by John Woods
+   441	Colony v3
+   442	Colors
+   443	Colossal Adventure
+   444	Colossal Cave Adventure
+   445	Colossus Chess 2.0
+   446	Colossus Chess 4.0
+   447	The Colour of Magic
+   448	Combat Course
+   449	Combat School
+   450	Comic Bakery
+   451	Commando
+   452	Commando 86
+   453	Commando II
+   454	Commando Libya
+   455	Compunet
+   456	Computer Baseball
+   457	The Computer Edition of Risk: The World Conquest Game
+   458	Computer Football Strategy
+   459	Computer Quarterback
+   460	Conan: Hall of Volta
+   461	Conan: The Mysteries of Time
+   462	Confuzion
+   463	Congo Bongo
+   464	Continental Circus
+   465	Contra
+   466	Conundrum
+   467	Cool Croc Twins
+   468	Cool World
+   469	Cops 'n' Robbers
+   470	Corporation
+   471	Corruption
+   472	Corsair
+   473	Cosmic Causeway: Trailblazer II
+   474	Cosmic Crusader
+   475	Cosmic Pirate
+   476	Cosmic Relief: Prof. Renegade to the Rescue
+   477	The Count
+   478	Count Duckula in No Sax Please - We're Egyptian
+   479	Countdown To Meltdown
+   480	Cover Girl Strip Poker
+   481	Crack Down
+   482	Crazy Balloon
+   483	Crazy Cars
+   484	Crazy Cars 2
+   485	Crazy Cars III
+   486	Crazy Comets
+   487	Crazy Kong
+   488	Crazy Sue
+   489	Create with Garfield
+   490	Creative Contraptions
+   491	Creatures
+   492	Creatures II: Torture Trouble
+   493	Crime and Punishment
+   494	The Crimson Crown
+   495	Crossbow
+   496	Crossfire
+   497	Crossroads
+   498	Crossroads II
+   499	Crossword Creator
+   500	Crossword Magic 4.0
+   501	Crossword Puzzle
+   502	Crusade in Europe (video game)
+   503	Crush, Crumble and Chomp!
+   504	Crystal Castles
+   505	Crystal Kingdom Dizzy
+   506	Crystals of Zong
+   507	Cubulus
+   508	Curse of Ra
+   509	The Curse of Sherwood
+   510	Curse of the Azure Bonds
+   511	Cuthbert Goes Walkabout
+   512	Cuthbert in Space
+   513	Cuthbert in the Jungle
+   514	Cutthroats
+   515	Cyberball
+   516	Cyberdyne Warrior
+   517	Cybernoid
+   518	Cybernoid II: The Revenge
+   519	Cybertron Mission
+   520	Cyborg
+   521	The Cycles: International Grand Prix Racing
+   522	Dalek Attack
+   523	Daley Thompson's Decathlon
+   524	Daley Thompson's Olympic Challenge
+   525	Daley Thompson's Super-Test
+   526	Dallas Quest
+   527	The Dam Busters
+   528	Dan Dare: Pilot of the Future
+   529	Dan Dare II: Mekon's Revenge
+   530	Dan Dare III: The Escape
+   531	Dandy
+   532	Daredevil Dennis
+   533	Dark Castle
+   534	Dark Fusion
+   535	Dark Lord
+   536	Dark Side
+   537	Darkman
+   538	David's Midnight Magic
+   539	David's Midnight Magic II
+   540	Days of Thunder
+   541	DDT
+   542	Deactivators
+   543	Dead End
+   544	Dead or Alive
+   545	Deadline (1982) by Infocom
+   546	Deadline (1996) by Psygnosis
+   547	Death in the Caribbean
+   548	Death Bringer
+   549	Death Knights of Krynn
+   550	Death Wish 3
+   551	Deathlord
+   552	Decisive Battles of the American Civil War Volume 1: Bull Run to Chancellorsville
+   553	Defender
+   554	Defender 64
+   555	Defender of the Crown
+   556	Deflektor
+   557	Déjà Vu by Ariolasoft-Axis Komputerkunst
+   558	Déjà Vu by Mindscape
+   559	Deliverance: Stormlord II
+   560	The Delphic Oracle
+   561	Delta
+   562	Delta Man
+   563	Demon Attack
+   564	Demon Stalkers
+   565	Demon's Winter
+   566	Desert Fox
+   567	Destroyer
+   568	The Detective Game
+   569	Deus Ex Machina
+   570	Dick Tracy
+   571	Die Hard
+   572	Die Hard 2: Die Harder
+   573	Dig Dug
+   574	Dino Eggs
+   575	Dive Bomber
+   576	Dizzy Down the Rapids
+   577	Dizzy Panic!
+   578	Dizzy Prince of the Yolkfolk
+   579	Dizzy: The Ultimate Cartoon Adventure
+   580	DNA Warrior
+   581	Doctor Doom's Revenge
+   582	Doctor Who and the Mines of Terror
+   583	Doctor Who 2
+   584	Dogfight 2187
+   585	Dogfight!
+   586	Dogs of war[disambiguation needed ]
+   587	Domination
+   588	Dominion
+   589	Donald Duck's Playground
+   590	Donkey Kong
+   591	Doomdark's Revenge
+   592	Double Dare
+   593	Double Dragon
+   594	Double Dragon II: The Revenge
+   595	Double Dragon 3: The Rosetta Stone
+   596	Double Dribble
+   597	Draconus
+   598	Dracula
+   599	Drag Race Eliminator
+   600	Dragon Breed
+   601	Dragon Ninja
+   602	Dragon Skulle
+   603	Dragon Spirit
+   604	Dragon Wars
+   605	Dragon's Lair
+   606	Dragon's Lair: Dirk's Escape
+   607	Dragon's Lair II: Escape from Singe's Castle
+   608	DragonHawk
+   609	Dragonriders of Pern
+   610	Dragons of Flame
+   611	DragonStrike
+   612	Dragonworld
+   613	Dream House
+   614	Driller
+   615	Drol
+   616	Dropzone
+   617	Druid
+   618	Druid II: Enlightenment
+   619	Duck Shoot
+   620	Ducks Ahoy!
+   621	DuckTales: The Quest for Gold
+   622	Duckula 2: Tremendous Terence
+   623	Duel, The (1985) by Carlo Barazzetta and Lorenzo Barazzetta
+   624	Duel, The (1986) by Paradize Software
+   625	The Duel: Test Drive II
+   626	Dungeon
+   627	Dungeon Maker by UBI Soft
+   628	Dungeon of Doom
+   629	Dunzhin
+   630	Duotris
+   631	Dynamic Duo
+   632	Dynamite Dan
+   633	Dynamite Dux
+   634	Dynamix (1988) by Digital Design
+   635	Dynamix (1989) by Mastertronic
+   636	Dynasty Wars
+   637	E-Motion
+   638	Earth Orbit Stations
+   639	Echelon
+   640	Eddie Kidd Jump Challenge
+   641	The Eidolon
+   642	Elektra Glide
+   643	Elevator Action
+   644	Elite
+   645	ELIZA
+   646	Elm Street
+   647	Elvira: Mistress of the Dark
+   648	Elvira: The Arcade Game
+   649	Elvira II: The Jaws of Cerberus
+   650	Emerald Isle
+   651	Emerald Mine
+   652	Emlyn Hughes International Soccer
+   653	The Empire of Karn
+   654	Empire!
+   655	Empire: Wargame of the Century
+   656	Enchanter
+   657	Encounter
+   658	Enduro Racer
+   659	Energy Warrior
+   660	Enigma Force
+   661	Enigma Force Construction Set
+   662	Entity
+   663	Entombed
+   664	Eon
+   665	Equations
+   666	Equinox
+   667	Erebus
+   668	Erik the Viking
+   669	Escape from the Planet of the Robot Monsters
+   670	ESWAT: City Under Siege
+   671	The Eternal Dagger
+   672	Eureka!
+   673	European Champions
+   674	European Football Champ
+   675	Evening Star
+   676	Everest Ascent
+   677	Everyone's a Wally
+   678	The Evil Dead
+   679	Excalibur
+   680	Exile
+   681	Exolon
+   682	Exploding Fist II: The Legend Continues
+   683	Extended Championship Lode Runner
+   684	Exterminator
+   685	Eye of Horus
+   686	F-14 Tomcat
+   687	F-15 Strike Eagle
+   688	F-16 Combat Pilot
+   689	F-18 Hornet
+   690	F-19 Stealth Fighter
+   691	F1 GP Circuits
+   692	F1 Manager
+   693	F1 Tornado
+   694	Face Off!
+   695	The Faery Tale Adventure
+   696	Fahrenheit 451
+   697	Fairlight
+   698	Falcon Patrol
+   699	Falcon Patrol II
+   700	Fallen Angel by Emerald Software Ltd
+   701	Fantasy World Dizzy
+   702	The Farmer's Daughter
+   703	Fast Break
+   704	Fast Eddie
+   705	Fast Food
+   706	Fast Tracks: The Computer Slot Car Construction Kit
+   707	Fellowship of the Rings
+   708	Felony!
+   709	Fernandez Must Die
+   710	Feud
+   711	Fiendish Freddy's Big Top O'Fun
+   712	Fight Night
+   713	Fighter Bomber
+   714	Fighter Command v1.1
+   715	Fighter Pilot
+   716	Fighting Warrior
+   717	Final Assault
+   718	Final Blow
+   719	Final Fight
+   720	Finders Keepers
+   721	Fire & Forget II: The Death Convoy
+   722	Fire King
+   723	Fire Power
+   724	Firefly
+   725	Firelord
+   726	Firequest
+   727	Firetrack
+   728	First Samurai
+   729	Fish!
+   730	Fish! v1.07
+   731	Fisher-Price: Alpha Build
+   732	Fist II: The Legend Continues
+   733	Fist+
+   734	Flasch Bier
+   735	Flasch Bier Konstruktion Kit
+   736	Flasch Bier 2
+   737	Flash Gordon
+   738	Flight Path 737
+   739	Flight Simulator II
+   740	Flimbo's Quest
+   741	Flintstones: Yabba-Dabba-Dooo!
+   742	Flintstones, The
+   743	Flip & Flop
+   744	Floyd of the Jungle
+   745	Flunky
+   746	Flyerfox
+   747	Flying Ace
+   748	Flying Shark
+   749	Football Manager
+   750	Football Manager 2
+   751	Football Manager 2 Expansion Kit
+   752	Football Manager 3
+   753	Football Manager World Cup Edition
+   754	Footballer of the Year
+   755	Footballer of the Year 2
+   756	Forbidden Forest
+   757	Forbidden Forest 2: Beyond the Forbidden Forest
+   758	Forgotten Worlds
+   759	Formula 1 Simulator
+   760	Fort Apocalypse
+   761	The Fourth Protocol
+   762	Foxx Fights Back
+   763	Fraction Fever
+   764	Frak!
+   765	Frank Bruno's Boxing
+   766	Frankenstein by CRL
+   767	Frankenstein (1992) by Zeppelin Games
+   768	Frankenstein Jnr.
+   769	Frankie Goes to Hollywood
+   770	Frantic Freddie
+   771	Freak Factory
+   772	Fred
+   773	Freddy Hardest
+   774	Frenzy
+   775	Friday the 13th
+   776	Frog Run
+   777	Frogger
+   778	Frogger II: Threeedeep!
+   779	Frogs and Flies
+   780	Front Line (video game)
+   781	Frostbyte
+   782	Fruit Machine Simulator
+   783	Fruit Machine Simulator 2
+   784	Fun School
+   785	Fungus
+   786	Future Knight
+   787	G-Force
+   788	G-LOC: Air Battle
+   789	G.I. Joe: A Real American Hero
+   790	G.U.T.Z.
+   791	Galactic Conquest
+   792	Galactic Empire
+   793	Galaga
+   794	Galaxian
+   795	Galaxy Force
+   796	Game Over
+   797	Game Over II
+   798	The Games: Summer Edition
+   799	The Games: Winter Edition
+   800	The Games: Winter Edition Practice
+   801	Gangbusters
+   802	Gaplus
+   803	Garfield: Big Fat Hairy Deal
+   804	Garfield: Winter's Tail
+   805	Garrison
+   806	Gary Lineker's Hot Shot!
+   807	Gary Lineker's Superskills
+   808	Gary Lineker's Superstar Soccer
+   809	Gateway to Apshai
+   810	Gateway to the Savage Frontier
+   811	Gato
+   812	Gauntlet
+   813	Gauntlet: The Deeper Dungeons
+   814	Gauntlet II
+   815	Gauntlet III: The Final Quest
+   816	Gazza II
+   817	Gazza's Superstar Soccer
+   818	GBA Championship Basketball: Two-on-Two
+   819	Gee Bee Air Rally
+   820	Gem'X
+   821	Gemstone Healer
+   822	Gemstone Warrior
+   823	Geos (pixel edit program)
+   824	Germany 1985
+   825	Gertrude's Secrets
+   826	Ghetto Blaster
+   827	Ghost Town
+   828	Ghost Trap
+   829	Ghostbusters
+   830	Ghostbusters II
+   831	Ghosts 'n Goblins
+   832	Ghouls
+   833	Ghouls 'n Ghosts
+   834	Gladiator
+   835	Glider Rider
+   836	Global Chess
+   837	Global Commander
+   838	Glutton
+   839	Gnome Ranger
+   840	Go Go The Ghost
+   841	Gold Medal Games
+   842	Golden Axe
+   843	Goldrunner
+   844	The Goonies
+   845	Gorf
+   846	Gradius
+   847	Graeme Souness International Soccer
+   848	Graeme Souness Soccer Manager
+   849	Graham Gooch's All Star Cricket
+   850	Graham Gooch's Test Cricket
+   851	Grand Monster Slam
+   852	Grand National
+   853	Grand Prix
+   854	Grand Prix Circuit
+   855	Grand Prix Master
+   856	Grand Prix Simulator
+   857	Grand Prix Simulator 2
+   858	Grand Slam Baseball
+   859	Grange Hill
+   860	Granny's Garden
+   861	Grave Yardage
+   862	Gravitron
+   863	The Great American Cross-Country Road Race
+   864	The Great Escape
+   865	The Great Giana Sisters
+   866	Great Gurianos
+   867	Green Beret (also known as Rush'n Attack)
+   868	Gremlins
+   869	Gremlins: The Adventure
+   870	Gremlins 2: The New Batch
+   871	Gribbly's Day Out
+   872	Gridder
+   873	Gridrunner
+   874	Growing Pains of Adrian Mole, The
+   875	Gruds in Space
+   876	Gryzor
+   877	Guadalcanal
+   878	Guerrilla War
+   879	Guild of Thieves, The
+   880	Gunfighters
+   881	Gunship
+   882	Gunslinger
+   883	Gust Buster
+   884	Gyroscope
+   885	Gyroscope Construction Set
+   886	Gyroscope II
+   887	Gyruss
+   888	H.A.T.E.
+   889	H.E.R.O.
+   890	Habitat
+   891	Hacker
+   892	Hacker II: The Doomsday Papers
+   893	Hades Nebula
+   894	Hägar the Horrible
+   895	The Halley Project
+   896	Halls of Montezuma: A Battle History of the U.S. Marine Corps
+   897	Halls of the Things
+   898	Hard Drivin'
+   899	Hard Hat Mack
+   900	Hardball!
+   901	Hardball! II
+   902	Hareraiser
+   903	Harrier Attack
+   904	Harrier Combat Simulator
+   905	Harvey Headbanger
+   906	Hat Trick
+   907	Hawkeye
+   908	Head Over Heels
+   909	Heart of Africa
+   910	Heartland
+   911	Hell Cat Ace
+   912	Hellgate
+   913	Helter Skelter
+   914	Henry's House
+   915	Herbert on the Slope
+   916	Herbert's Dummy Run
+   917	Hercules
+   918	Hero Quest
+   919	The Heroes of Karn
+   920	Hes Games
+   921	Hercules
+   922	High Noon
+   923	High Seas
+   924	Highland Games
+   925	Highlander
+   926	Highway Encounter
+   927	Hillsfar
+   928	Hitchhiker's Guide to the Galaxy, The
+   929	The Hobbit
+   930	Hollywood Hijinx
+   931	Hollywood or Bust
+   932	Hollywood Poker
+   933	Hollywood Poker Pro
+   934	Hollywood Squares
+   935	Hook
+   936	Hoppin' Mad
+   937	Horace Goes Skiing
+   938	Hostages by Infogrames
+   939	Hot Rod
+   940	Hot Wheels
+   941	HotShot
+   942	Hounded
+   943	House of Usher
+   944	Hover
+   945	Hover Bovver
+   946	How to be a Complete Bastard
+   947	Howard the Duck
+   948	Howard the Duck II
+   949	Hudson Hawk
+   950	Hugo
+   951	The Hulk
+   952	Human Killing Machine
+   953	Hunchback
+   954	Hunchback: The Adventure
+   955	Hunchback at the Olympics
+   956	Hunchback II: Quasimodo's Revenge
+   957	Hungry Horace
+   958	The Hunt for Red October (1987)
+   959	The Hunt for Red October (1990)
+   960	Hunter Patrol
+   961	Hunter's Moon
+   962	Hustler
+   963	Hydra
+   964	Hydrax
+   965	Hypaball
+   966	Hyper Sports
+   967	Hyperspace Warrior
+   968	I, Ball
+   969	I, Ball 2
+   970	Időrégész
+   971	Ikari III
+   972	Ikari Warriors
+   973	Imhotep
+   974	Impact
+   975	Imperator
+   976	Impossamole
+   977	Impossible Mission
+   978	Impossible Mission II
+   979	In Search of the Most Amazing Thing
+   980	Incredible Shrinking Sphere
+   981	Indiana Jones and the Last Crusade: The Action Game
+   982	Indiana Jones and the Temple of Doom
+   983	Indiana Jones in the Lost Kingdom
+   984	Indoor Sports
+   985	Indy Heat
+   986	Infernal Runner
+   987	Infidel
+   988	Infiltrator
+   989	Infiltrator Part II: The Next Day
+   990	Infiltrator Part III
+   991	Ingrid's Back
+   992	Injured Engine
+   993	Inside Outing
+   994	Inspector Gadget
+   995	Inspector Gadget and the Circus of Fear
+   996	Instant Music
+   997	The Institute
+   998	International Basketball (Commodore 64)
+   999	International Karate (World Karate Champ)
+  1000	International Karate +
+  1001	International Karate + Gold
+  1002	International Soccer (1983 computer game) by Commodore
+  1003	International Soccer (1988 computer game) by CRL
+  1004	Into the Eagle's Nest
+  1005	IO
+  1006	It's a Knockout
+  1007	Italy '90 Soccer
+  1008	Ivan 'Ironman' Stewart's Super Off Road
+  1009	Jack Attack
+  1010	Jack Nicklaus' Greatest 18 Holes of Major Championship Golf
+  1011	Jack the Nipper
+  1012	Jack the Nipper II: In Coconut Capers
+  1013	Jack the Ripper
+  1014	Jackal
+  1015	Jail Break
+  1016	Jail War
+  1017	Jailbreak From Starhold 1
+  1018	James Bond 007
+  1019	James Pond 2
+  1020	Jason of the Argonauts
+  1021	Jawbreaker
+  1022	Jaws
+  1023	Jet
+  1024	Jet Set Willy
+  1025	Jet Set Willy 2
+  1026	Jet-Boot Jack
+  1027	Jet-Boys
+  1028	The Jetsons
+  1029	Jewels of Darkness
+  1030	Jigsaw
+  1031	Jinxter
+  1032	Jocky Wilson's Darts Challenge
+  1033	Joe Blade
+  1034	Joe Blade 2
+  1035	John Elway's Quarterback
+  1036	John Madden Football
+  1037	Jordan vs. Bird: One on One
+  1038	Journey
+  1039	Journey to Centre of the Earth
+  1040	Jr. Pac-Man
+  1041	Judge Dredd
+  1042	Jumpin' Jack
+  1043	Jumpman
+  1044	Jumpman Junior
+  1045	Jungle Hunt
+  1046	Juno First
+  1047	Jupiter Lander
+  1048	Kampfgruppe
+  1049	Kane
+  1050	Kane 2
+  1051	Kangaroo
+  1052	Karate Champ
+  1053	Karate Kid 2
+  1054	Karateka
+  1055	Karnov
+  1056	Katakis
+  1057	Kawasaki Magical Musicquill
+  1058	Kawasaki Rhythm Rocker
+  1059	Kawasaki Synthesizer
+  1060	Kennedy Approach
+  1061	Kenny Dalglish Soccer Manager
+  1062	Kenny Dalglish Soccer Match
+  1063	Kentilla
+  1064	The Keys to Maramon
+  1065	Kick Off (1983) by Bubble Bus
+  1066	Kick Off (1989) by Anco
+  1067	Kick Off 2
+  1068	Kikstart
+  1069	Kikstart 2
+  1070	Killed Until Dead
+  1071	Killerwatt
+  1072	Kinetik
+  1073	King of Chicago
+  1074	King's Bounty
+  1075	Kings of the Beach
+  1076	Klax
+  1077	Knight Games
+  1078	Knight Games 2
+  1079	Knight Orc
+  1080	Knight Rider
+  1081	Knight Tyme
+  1082	Knightmare
+  1083	Knights of Legend
+  1084	Kokotoni Wilf
+  1085	Konami's Ping Pong
+  1086	Kong Strikes Back!
+  1087	Koronis Rift
+  1088	Krakout
+  1089	Kung-Fu Master
+  1090	Kwik Snax
+  1091	L.A. SWAT
+  1092	Labyrinth: The Computer Game
+  1093	Lamborghini American Challenge
+  1094	Lancelot
+  1095	Las Vegas Video Poker
+  1096	Laser Chess
+  1097	Laser Squad
+  1098	Last Battle
+  1099	Last Duel
+  1100	The Last Ninja
+  1101	Last Ninja 2
+  1102	Last Ninja 3
+  1103	The Last V8
+  1104	Law of the West
+  1105	Lazy Jones
+  1106	Leaderboard
+  1107	Leather Goddesses of Phobos
+  1108	Led Storm
+  1109	Legacy of the Ancients
+  1110	The Legend of Blacksilver
+  1111	The Legend of Kage
+  1112	Legend of the Amazon Women
+  1113	Legend of the Knucker-Hole
+  1114	Legions of Death
+  1115	Lemmings
+  1116	Lethal Weapon
+  1117	Leviathan
+  1118	The Light Corridor
+  1119	Light Force
+  1120	Line of Fire
+  1121	Lions of the Universe
+  1122	Little Computer People
+  1123	Live and Let Die
+  1124	Liverpool
+  1125	The Living Daylights
+  1126	Livingstone, I Presume?
+  1127	Loco
+  1128	Lode Runner
+  1129	Lode Runner's Rescue
+  1130	Loopz
+  1131	Lord of the Rings: Game One
+  1132	Lords of Chaos
+  1133	Lords of Conquest
+  1134	Lords of Karma
+  1135	The Lords of Midnight
+  1136	Lords of Time
+  1137	Lotus Esprit Turbo Challenge
+  1138	The Lost Crown of Queen Anne
+  1139	Lucky Luke
+  1140	Lunar Outpost
+  1141	Lunar Rescue
+  1142	The Lurking Horror
+  1143	M.C. Kids
+  1144	M.U.L.E.
+  1145	Macadam Bumper
+  1146	Mad Doctor
+  1147	Mad Nurse (Firebird)
+  1148	The Magic Candle
+  1149	Magic Carpet
+  1150	Magic Johnson's Basketball
+  1151	Magicland Dizzy
+  1152	Mail Order Monsters
+  1153	Main Frame
+  1154	Mama Llama
+  1155	Manchester United
+  1156	Mancopter
+  1157	Maniac Mansion
+  1158	Manic Miner
+  1159	Manky
+  1160	Marble Madness
+  1161	Mario Bros.
+  1162	Mario Bros. II
+  1163	Mars Saga
+  1164	The Mask of the Sun
+  1165	Master of Magic
+  1166	Master of the Lamps
+  1167	Masters of the Universe: The Arcade Game
+  1168	Masters of the Universe: The Movie
+  1169	Masters of the Universe: The Super Adventure
+  1170	Match Day
+  1171	Match Day II
+  1172	Match Point
+  1173	Math Blaster
+  1174	Math Busters
+  1175	Mayhem in Monsterland
+  1176	Maziacs
+  1177	Mean Streets
+  1178	Meanstreak
+  1179	Mega Apocalypse
+  1180	Menace
+  1181	Mercenary: Escape from Targ
+  1182	Mercenary: The Second City
+  1183	Mercs
+  1184	Metal Gear
+  1185	Metro-Cross
+  1186	Miami Vice
+  1187	Michael Jackson's Moonwalker
+  1188	Mickey's Space Adventure
+  1189	MicroLeague Baseball
+  1190	MicroLeague Wrestling
+  1191	Microprose Soccer
+  1192	Midnight Resistance
+  1193	Mig 29 Soviet Fighter
+  1194	Might and Magic Book One: The Secret of the Inner Sanctum
+  1195	Might and Magic II: Gates to Another World
+  1196	Mighty Bomb Jack
+  1197	Mikie
+  1198	Milk Race
+  1199	Mindfighter
+  1200	Mindtrap
+  1201	Miner 2049er
+  1202	Mini-Putt
+  1203	Mission Asteroid
+  1204	Mission Omega
+  1205	Modem Wars
+  1206	Moebius: The Orb of Celestial Harmony
+  1207	Molecule Man
+  1208	Moneybags (1983)[1]
+  1209	Monopoly
+  1210	Monster Munch
+  1211	Montezuma's Revenge
+  1212	Monty on the Run
+  1213	Moon Cresta
+  1214	Moon Patrol
+  1215	Moondust
+  1216	Moonmist
+  1217	Mothership
+  1218	Morpheus
+  1219	Motos
+  1220	Mountain King
+  1221	Mountain Palace Adventure
+  1222	The Movie Monster Game
+  1223	Mr. Do!
+  1224	Mr. Do's Castle
+  1225	Mr. Heli
+  1226	Mr. Mephisto
+  1227	Mr. Robot and His Robot Factory
+  1228	Mr. Wimpy
+  1229	Ms. Pac-Man
+  1230	Multi-Player Soccer Manager
+  1231	The Muncher
+  1232	Murder on the Mississippi
+  1233	Murder on the Zinderneuf
+  1234	Mushroom Alley
+  1235	Music Composer
+  1236	Music Construction Set
+  1237	Music Machine
+  1238	Myth
+  1239	Myth: History in the Making
+  1240	NARC
+  1241	NATO Commander
+  1242	Nautilus
+  1243	Navy SEALS
+  1244	Nebulus
+  1245	Necromancer
+  1246	Nemesis
+  1247	Nemesis: The Warlock
+  1248	Neptune's Daughters
+  1249	Nether Earth
+  1250	Netherworld
+  1251	Neuromancer
+  1252	Neutral Zone
+  1253	New York City
+  1254	The NewZealand Story
+  1255	Newcomer
+  1256	Nexus
+  1257	Night Driver
+  1258	Night Shift
+  1259	A Nightmare on Elm Street
+  1260	Nightshade
+  1261	Nine Princes In Amber
+  1262	Ninja
+  1263	Ninja Gaiden
+  1264	Ninja Hamster
+  1265	Ninja Rabbits
+  1266	Ninja Spirit
+  1267	The Ninja Warriors
+  1268	Nobby the Aardvark
+  1269	Nodes of Yesod
+  1270	Nonterraqueous
+  1271	Nord and Bert Couldn't Make Head or Tail of It
+  1272	North & South
+  1273	Norway 1985
+  1274	Octapolis
+  1275	Odell Lake
+  1276	Oil Barons
+  1277	Oil's Well
+  1278	Olli & Lissa 3
+  1279	Omega
+  1280	Omega Race
+  1281	On the moon
+  1282	On-Court Tennis
+  1283	One Man and His Droid
+  1284	One on One: Dr. J vs. Larry Bird
+  1285	Operation Thunderbolt
+  1286	Operation Wolf
+  1287	Oregon Trail, The
+  1288	Out of this World
+  1289	Out Run
+  1290	Out Run Europa
+  1291	Outlaws
+  1292	Overlander
+  1293	Overlord
+  1294	P. P. Hammer and his Pneumatic Weapon
+  1295	Pac-Land
+  1296	Pac-Man
+  1297	Pac-Mania
+  1298	Painterboy
+  1299	Pandora
+  1300	Panic
+  1301	Pang (see Buster Bros.)
+  1302	Panther
+  1303	Panzer Strike
+  1304	Paperboy
+  1305	Paperboy 2
+  1306	Paradroid
+  1307	Parallax
+  1308	The Paranoia Complex
+  1309	Paratroopers
+  1310	Park Patrol
+  1311	Pastfinder
+  1312	Patton Versus Rommel
+  1313	The Pawn
+  1314	Pedro
+  1315	Penetrator
+  1316	Pengo
+  1317	Periscope Up
+  1318	Perry Mason: The Case of the Mandarin Murder
+  1319	Perseus and Andromeda
+  1320	Persian Gulf Inferno
+  1321	Peter Pack Rat
+  1322	Peter Shilton's Handball Maradona
+  1323	Phantasie
+  1324	Phantasie II
+  1325	Phantasie III
+  1326	Phantoms of the Asteroid
+  1327	Pharaoh's Curse
+  1328	Pharaoh's Revenge
+  1329	PHM Pegasus
+  1330	Phobia
+  1331	Pinball Construction Set
+  1332	Pinball Wizard
+  1333	Pipe Mania
+  1334	Piracy
+  1335	Pirate Adventure
+  1336	Pirates
+  1337	Pit Fighter
+  1338	Pitfall!
+  1339	Pitfall II: Lost Caverns
+  1340	Pitstop
+  1341	Pitstop II
+  1342	Planetfall
+  1343	Plotting
+  1344	Plundered Hearts
+  1345	Platoon
+  1346	Pogo Joe
+  1347	Pole Position
+  1348	Pole Position II
+  1349	Pool of Radiance
+  1350	Pooyan
+  1351	PopMan
+  1352	Popeye
+  1353	Portal
+  1354	Postman Pat
+  1355	Postman Pat II
+  1356	Postman Pat III
+  1357	Pot Panic
+  1358	Potty Painter
+  1359	Potty Pigeon
+  1360	Power At Sea
+  1361	Power Drift
+  1362	Power!
+  1363	Predator
+  1364	President Elect
+  1365	The President is Missing
+  1366	Press Your Luck
+  1367	The Price Is Right
+  1368	Prince of Persia
+  1369	Pro Boxing Simulator
+  1370	Professional Ski Simulator
+  1371	Project Firestart
+  1372	Project Space Station
+  1373	Proof of Destruction
+  1374	PSI-5 Trading Company
+  1375	PSI Warrior
+  1376	Psycho Hopper
+  1377	Psycho Soldier
+  1378	Pub Games
+  1379	Pub Trivia
+  1380	Puffy's Saga
+  1381	Puzzle Panic
+  1382	Puzzlenoid
+  1383	Puzznic
+  1384	Pyjamarama
+  1385	The Pyramid
+  1386	Q*bert
+  1387	Qix
+  1388	Quake Minus One
+  1389	Quango
+  1390	Quartet
+  1391	Quasimodo
+  1392	Quedex
+  1393	Quest, The
+  1394	A Question of Sport
+  1395	Questron
+  1396	Quo Vadis
+  1397	R-Type
+  1398	Racing Destruction Set
+  1399	Rack 'Em
+  1400	Radar Rat Race
+  1401	Rags to Riches
+  1402	Raid on Bungeling Bay
+  1403	Raid over Moscow
+  1404	Rainbow Islands
+  1405	Rally Cross Simulator
+  1406	Rally Racer
+  1407	Rally Speedway
+  1408	Rambo
+  1409	Rambo: First Blood Part II
+  1410	Rambo III
+  1411	Rampage
+  1412	Rampart
+  1413	Ranarama
+  1414	Rastan Saga
+  1415	Rasterscan
+  1416	The Rats
+  1417	RDF 1985
+  1418	Reach for the Stars
+  1419	Real Ghostbusters, The
+  1420	Realm of Impossibility
+  1421	Realms of Darkness
+  1422	Rebel Planet
+  1423	Rebounder
+  1424	Red Heat
+  1425	Red Max
+  1426	Red Storm Rising
+  1427	Renaissance
+  1428	Rendezvous with Rama
+  1429	Renegade
+  1430	Renegade III: The Final Chapter
+  1431	Repton (Sirius Software)
+  1432	Repton (Superior Software)
+  1433	Rescue on Fractalus!
+  1434	Rescue Squad
+  1435	Revenge of the Mutant Camels
+  1436	Revs
+  1437	Rick Dangerous
+  1438	Rick Dangerous 2
+  1439	Richard Petty's Talladega
+  1440	Rigel's Revenge
+  1441	Ring of Power
+  1442	Risk
+  1443	River Raid
+  1444	River Rescue
+  1445	Road Runner
+  1446	RoadBlasters
+  1447	Roadwar 2000
+  1448	Roadwars
+  1449	Robbers of the Lost Tomb
+  1450	Robin Hood
+  1451	Robin Hood: Legend Quest
+  1452	Robin of the Wood
+  1453	RoboCop
+  1454	RoboCop 2
+  1455	RoboCop 3
+  1456	Robot Rascals
+  1457	Robotfindskitten
+  1458	Robotron: 2084
+  1459	Rock'n Wrestle
+  1460	Rock'n Bolt
+  1461	Rock'n Roll
+  1462	Rock Star Ate My Hamster
+  1463	Rocket Ranger
+  1464	Rocketball
+  1465	The Rocky Horror Show
+  1466	Rockford
+  1467	Rocky's Boots
+  1468	Rod Land
+  1469	Rogue
+  1470	Rogue Trooper
+  1471	Roland's Rat Race
+  1472	Rollaround
+  1473	Roller Coaster Rumbler
+  1474	Rolling Ronnie
+  1475	Rolling Thunder
+  1476	Rubicon
+  1477	Rugby: The World Cup
+  1478	Run the Gauntlet
+  1479	Rupert and the Ice Castle
+  1480	Rupert and the Toymaker's Party
+  1481	Rush'n Attack (also known as Green Beret)
+  1482	Rygar
+  1483	S.T.U.N. Runner
+  1484	Sabotage
+  1485	Saboteur
+  1486	Saboteur II: Avenging Angel
+  1487	Sabre Wulf
+  1488	The Sacred Armour of Antiriad
+  1489	Saint Dragon
+  1490	Salamander
+  1491	Samantha Fox Strip Poker
+  1492	Sammy Lightfoot
+  1493	Samurai Trilogy
+  1494	Samurai Warrior: The Battles of Usagi Yojimbo
+  1495	Sanxion
+  1496	Saracen
+  1497	Sargon II
+  1498	Sargon III
+  1499	SAS Combat Simulator
+  1500	Saucer Attack
+  1501	Savage
+  1502	Savage Pond
+  1503	Save New York
+  1504	Scapeghost
+  1505	Scarabaeus
+  1506	Scooby Doo
+  1507	The Secret Diary of Adrian Mole, Aged 13¾
+  1508	Scramble
+  1509	SDI
+  1510	Seabase Delta
+  1511	Seastalker
+  1512	The Secret of Bastow Manor
+  1513	Secret of the Silver Blades
+  1514	Sentinel Worlds I: Future Magic
+  1515	Sentinel, The
+  1516	The Serpent's Star
+  1517	Serpentine
+  1518	Seven Cities of Gold
+  1519	Seymour Goes to Hollywood
+  1520	Shackled
+  1521	Shadow Dancer
+  1522	Shadow Fighter
+  1523	Shadow of the Beast
+  1524	Shadowfire
+  1525	Shadows of Mordor
+  1526	Shamus
+  1527	Shamus Case II
+  1528	Shanghai
+  1529	Shao-Lin's Road
+  1530	Shard of Spring
+  1531	Sheep in Space
+  1532	Sherlock: The Riddle of the Crown Jewels
+  1533	Shinobi
+  1534	Shockway Rider
+  1535	Shoot'Em-Up Construction Kit
+  1536	Short Circuit
+  1537	Side Arms
+  1538	Sidewize
+  1539	Sierra Championship Boxing
+  1540	The Simpsons: Bart vs. the Space Mutants
+  1541	The Simpsons Arcade Game
+  1542	Silent Service
+  1543	Silicon Dreams trilogy
+  1544	Silkworm
+  1545	SimCity
+  1546	Sinbad and the Throne of the Falcon
+  1547	Siren City
+  1548	Skate or Die!
+  1549	Skateball
+  1550	Skaterock
+  1551	Ski or Die
+  1552	Skool Daze
+  1553	Skramble
+  1554	Sky Runner
+  1555	Sky Shark
+  1556	Skyfox
+  1557	Skyfox II: The Cygnus Conflict
+  1558	Slap Fight
+  1559	Slayer
+  1560	Sleepwalker
+  1561	Slicks
+  1562	Slightly Magic
+  1563	Sly Spy
+  1564	Smash TV
+  1565	Snokie
+  1566	Snooker
+  1567	Snoopy
+  1568	Soft Aid
+  1569	Software Star
+  1570	Soldier of Fortune
+  1571	Solo Flight
+  1572	Solomon's Key
+  1573	Son of Blagger
+  1574	Sorcerer
+  1575	Sorcerer Lord
+  1576	Soul of a Robot
+  1577	Southern Belle
+  1578	Space Action
+  1579	Space Gun
+  1580	Space Harrier
+  1581	Space Harrier II
+  1582	Space Pilot
+  1583	Space Pilot II
+  1584	Space Rogue
+  1585	Space Taxi
+  1586	Special Criminal Investigation
+  1587	Speed King
+  1588	Speedball
+  1589	Speedball 2
+  1590	Spellbound
+  1591	Spellbound Dizzy
+  1592	Spellbreaker
+  1593	Spelunker
+  1594	Spider-Man and Captain America in Doctor Doom's Revenge
+  1595	Spindizzy
+  1596	Spirit of Adventure
+  1597	Spitfire Ace
+  1598	Spitting Image
+  1599	Splat!
+  1600	Split Personalities
+  1601	Spooks
+  1602	Spore
+  1603	Sporting Triangles
+  1604	Spy Hunter
+  1605	Spy vs. Spy
+  1606	Spy vs. Spy II: The Island Caper
+  1607	Spy vs. Spy III: Arctic Antics
+  1608	The Spy Who Loved Me
+  1609	Spy's Demise
+  1610	Squirm
+  1611	Squish 'em
+  1612	The Staff of Karnath
+  1613	Stalag 23
+  1614	The Standing Stones
+  1615	Star Control
+  1616	Star Fire
+  1617	Star Fleet I: The War Begins
+  1618	Star League Baseball
+  1619	Star Paws
+  1620	Star Raiders II
+  1621	Star Soldier
+  1622	Star Trader
+  1623	Star Trek
+  1624	Star Trek: The Kobayashi Alternative
+  1625	Star Trek: The Promethean Prophecy
+  1626	Star Trek: The Rebel Universe
+  1627	Star Wars (1983)
+  1628	Star Wars (Domark)
+  1629	Star Wars: Return of the Jedi
+  1630	Star Wars: The Empire Strikes Back
+  1631	Star Wreck
+  1632	Starcross
+  1633	StarFlight
+  1634	Starfox
+  1635	Stargate
+  1636	Starglider
+  1637	Starquake
+  1638	Stationfall
+  1639	Steel Thunder
+  1640	Steg
+  1641	Stellar 7
+  1642	Stifflip & Co.
+  1643	Stir Crazy featuring BoBo
+  1644	Stix
+  1645	Stock Car
+  1646	Stop the Express
+  1647	Storm Warrior
+  1648	Stormbringer
+  1649	Stormlord
+  1650	Stormtrooper
+  1651	Strange Odyssey
+  1652	Streaker
+  1653	Street Beat
+  1654	Street Fighter
+  1655	Street Fighter II
+  1656	Street Hawk
+  1657	Street Sports Basketball
+  1658	Streets of London
+  1659	Street Rod
+  1660	Street Rod 2
+  1661	Strider
+  1662	Strider II
+  1663	Strike
+  1664	Strike Fleet
+  1665	Strike Force Harrier
+  1666	Strip Poker
+  1667	Strip Poker II
+  1668	Stroker
+  1669	Stunt Car Racer
+  1670	Sub Battle Simulator
+  1671	Subsunk
+  1672	Subterranea
+  1673	Suicide Express
+  1674	Summer Games
+  1675	Summer Games II
+  1676	Super Bunny
+  1677	Super Cars
+  1678	Super Cars II
+  1679	Super Cycle
+  1680	Super Gran
+  1681	Super Gran: The Adventure
+  1682	Super Hang-On
+  1683	Super Huey
+  1684	Super Huey II
+  1685	Super Monaco GP
+  1686	Super Pac-Man
+  1687	Super Password
+  1688	Super Pipeline
+  1689	Super Pipeline II
+  1690	Super Robin Hood
+  1691	Super Scramble Simulator
+  1692	Super Spring
+  1693	Super Sprint
+  1694	Super Trolley
+  1695	The SuperCan
+  1696	Superman: The Game
+  1697	Superman: The Man of Steel
+  1698	Superstar Ice Hockey
+  1699	Supremacy
+  1700	Survivors
+  1701	Suspect
+  1702	Suspended
+  1703	S.W.A.T.
+  1704	SWIV
+  1705	Swoop
+  1706	Sword of Fargoal
+  1707	Sword of Fred
+  1708	Sword of Honour
+  1709	Sword of Kadash, The
+  1710	Synetic
+  1711	System 15000
+  1712	T.A.N.K.
+  1713	Tag Team Wrestling
+  1714	Tai-Pan
+  1715	Tales of Lore
+  1716	Tales of the Arabian Nights
+  1717	Tapper
+  1718	Targ
+  1719	Target Renegade
+  1720	Tass Times in Tone Town
+  1721	Tau Ceti
+  1722	Techno Cop
+  1723	Teenage Mutant Ninja Turtles
+  1724	Teenage Mutant Ninja Turtles II: The Arcade Game
+  1725	Telengard
+  1726	Temple of Apshai
+  1727	Terra Cresta
+  1728	Terrormolinos
+  1729	Test Drive
+  1730	Test Drive II
+  1731	Terra Quest
+  1732	Terry's Big Adventure
+  1733	Thanatos
+  1734	Theatre Europe
+  1735	They Stole A Million
+  1736	Thing On A Spring
+  1737	Thomas the Tank Engine and Friends
+  1738	The Three Stooges
+  1739	Three Weeks in Paradise
+  1740	Thrust
+  1741	Thud Ridge: American Aces In 'Nam
+  1742	Thunder Blade
+  1743	Thundercats
+  1744	Tiger Road
+  1745	Tilt
+  1746	Time and Magik
+  1747	Time Pilot
+  1748	Timesearch
+  1749	Times of Lore
+  1750	Time Tunnel
+  1751	Tintin on the Moon
+  1752	Tir Na Nog
+  1753	Titan
+  1754	Tom & Jerry: Hunting High and Low
+  1755	To Hell and Back
+  1756	Tomcat
+  1757	Tony La Russa Baseball
+  1758	Toobin
+  1759	Top Gun
+  1760	Total Eclipse
+  1761	Total Recall
+  1762	Toy Bizarre
+  1763	Track & Field
+  1764	Tracksuit Manager
+  1765	Trailblazer
+  1766	The Train: Escape to Normandy
+  1767	Train Robbers
+  1768	Trans World
+  1769	The Transformers
+  1770	Transformers: The Battle to Save the Earth
+  1771	Transylvania
+  1772	Transylvania III: Vanquish The Night
+  1773	Trantor: The Last Stormtrooper
+  1774	Trap Door
+  1775	Trashman
+  1776	TRAZ
+  1777	Treasure Island
+  1778	Treasure Island Dizzy
+  1779	Trollie Wallie
+  1780	Trolls and Tribulations
+  1781	Troy It!
+  1782	Tuk's Adventure
+  1783	Turbo Esprit
+  1784	Turbo Outrun
+  1785	Turbo the Tortoise
+  1786	Turn It
+  1787	Turrican
+  1788	Turrican II: The Final Fight
+  1789	TV Sports Basketball
+  1790	Twin Kingdom Valley
+  1791	Twinworld
+  1792	Type Attack
+  1793	U.N. Squadron
+  1794	Ugh!
+  1795	Ultima I: The First Age of Darkness
+  1796	Ultima II: The Revenge of the Enchantress
+  1797	Ultima III: Exodus
+  1798	Ultima IV: Quest of the Avatar
+  1799	Ultima V: Warriors of Destiny
+  1800	Ultima VI: The False Prophet
+  1801	Ultimate Wizard
+  1802	Ulysses and the Golden Fleece
+  1803	Under Fire!
+  1804	Underwurlde
+  1805	Uninvited
+  1806	Unitrax
+  1807	Up'n Down
+  1808	Up Periscope
+  1809	Urban Upstart
+  1810	Uridium
+  1811	Uridium Plus
+  1812	Uuno Turhapuro muuttaa maalle
+  1813	V
+  1814	Valhalla
+  1815	The Valley
+  1816	Vendetta
+  1817	Victory Road
+  1818	A View to a Kill
+  1819	Vigilante
+  1820	Vikings
+  1821	Vindicators
+  1822	Vixen
+  1823	Viz: The Game
+  1824	Volfied
+  1825	Voodoo Castle
+  1826	Vultures
+  1827	W.A.R.
+  1828	Wanted: Monty Mole
+  1829	War in Middle Earth
+  1830	War of the Lance
+  1831	Wargame Construction Set
+  1832	Warhawk
+  1833	Wasteland
+  1834	Waterline
+  1835	Waxworks
+  1836	The Way of the Exploding Fist (see also Exploding Fist II: The Legend Continues)
+  1837	Way of the Tiger
+  1838	Way of the Tiger II: Avenger
+  1839	Wayout
+  1840	WEC Le Mans
+  1841	Weird Dreams
+  1842	Welltris
+  1843	Werewolves of London
+  1844	Wheel of Fortune
+  1845	Wheeling Wallie
+  1846	Where in the USA is Carmen Sandiego?
+  1847	Where in the World is Carmen Sandiego?
+  1848	Where in Time is Carmen Sandiego?
+  1849	Who Dares Wins
+  1850	Who Dares Wins II
+  1851	Who Framed Roger Rabbit
+  1852	William Wobbler
+  1853	Windwalker, (Moebius II)
+  1854	Wings of Fury
+  1855	Winnie the Pooh in the Hundred Acre Wood
+  1856	Winter Games
+  1857	Wishbringer
+  1858	The Witness
+  1859	Wizard
+  1860	Wizard and the Princess
+  1861	Wizard of Wor
+  1862	Wizard Warz
+  1863	Wizard's Crown
+  1864	Wizardry
+  1865	Wizardry II: The Knight of Diamonds
+  1866	Wizardry III: Legacy of Llylgamyn
+  1867	Wizardry V: Heart of the Maelstrom
+  1868	Wizardry: Proving Grounds of the Mad Overlord
+  1869	Wizball
+  1870	Wolfman
+  1871	Wonder Boy
+  1872	Wonder Boy in Monster Land
+  1873	Wooden Ships and Iron Men
+  1874	Woody The Worm
+  1875	World Championship Soccer
+  1876	World Class Leaderboard
+  1877	World Cup 90: Arcade Soccer
+  1878	World Cup Carnival
+  1879	World Cup Cricket
+  1880	World Cup Football
+  1881	World Cup Italia '90
+  1882	World Cup Soccer
+  1883	World Cup Soccer: Italia '90
+  1884	World Games
+  1885	World Karate Champion
+  1886	World of Pirates
+  1887	World Rugby
+  1888	World Tour Golf
+  1889	Worms?
+  1890	Wrath of the Demon
+  1891	WWF European Rampage Tour
+  1892	WWF WrestleMania
+  1893	X-Men: Madness in Murderworld
+  1894	X-Out
+  1895	Xenomorph
+  1896	Xenon
+  1897	Xenophobe
+  1898	Xevious
+  1899	XOR
+  1900	Xyphus
+  1901	Yie Ar Kung-Fu
+  1902	Yie Ar Kung-Fu II
+  1903	Yogi's Great Escape
+  1904	The Young Ones
+  1905	Z
+  1906	Zak McKracken and the Alien Mindbenders
+  1907	Zamzara
+  1908	Zaxxon
+  1909	Zeppelin
+  1910	Zig Zag
+  1911	Zoids: The Battle Begins
+  1912	Zombi
+  1913	Zoom!
+  1914	Zork I
+  1915	Zork II - The Wizard of Frobozz
+  1916	Zork III - The Dungeon Master
+  1917	Zork: The Undiscovered Underground
+  1918	Zorro
+  1919	Zub
+  1920	Zuul
+  1921	Zybex
+  1922	Zynaps
+  1923	Zzzzz

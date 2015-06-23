@@ -1,0 +1,851 @@
+     1	10 Yard Fight
+     2	100 World Story The The Tales on a Watery Wilderness
+     3	1942
+     4	1943
+     5	3D World Runner
+     6	720
+     7	8 Eyes
+     8	A Boy and His Blob
+     9	Abadox
+    10	Action 52
+    11	AD&D Dragonstrike
+    12	AD&D Heroes of the Lance
+    13	AD&D Hillsfar
+    14	AD&D Pool of Radiance
+    15	Addams Family
+    16	Advanced Dungeons & Dragons - DragonLance Dragons of Flame
+    17	Adventure Island
+    18	Adventure Island 2
+    19	Adventure Island 3
+    20	Adventure Island 4
+    21	Adventures of Bayou Billy
+    22	Adventures of Dino Riki
+    23	Adventures of Lolo
+    24	Adventures of Lolo 2
+    25	Adventures of Lolo 3
+    26	Adventures of Musashi
+    27	Adventures of Tom Sawyer
+    28	After Burner
+    29	Air Fortress
+    30	Airwolf
+    31	Akira
+    32	Alfred Chicken
+    33	Alien 3
+    34	Alien Syndrome
+    35	Alpha Mission
+    36	Altered Beast
+    37	Amagon
+    38	American Dream
+    39	American Gladiators
+    40	Ankoku Shinwa The Dark Myth
+    41	Antarctic Adventure
+    42	Anticipation
+    43	Arch Rivals
+    44	Archon
+    45	Arkanoid
+    46	Arkistas Ring
+    47	Armadillo
+    48	Armed Dragon Fantasy Villgust
+    49	Astro Fang Super Machine
+    50	Astyanax
+    51	Athena
+    52	Athletic World
+    53	Attack Animal Academy
+    54	Attack of the Killer Tomatoes
+    55	B-Wings
+    56	Baby Boomer
+    57	Back to the Future
+    58	Back to the Future 2 and 3
+    59	Bad Dudes
+    60	Bad Street Brawler
+    61	Balloon Fight
+    62	Banana
+    63	Banana Prince
+    64	Bandit Kings of Ancient China
+    65	Barbie
+    66	Bard's Tale The
+    67	Base Wars
+    68	Batman
+    69	Batman Return of the Joker
+    70	Batman Returns
+    71	Battle Chess
+    72	Battle of Olympus
+    73	Battle Tank
+    74	Battleship
+    75	Battletoads
+    76	Battletoads & Double Dragon
+    77	Bee 52
+    78	Beetlejuice
+    79	Bible Adventures
+    80	Bible Buffet
+    81	Big Bird Hide and Speek
+    82	Big Foot
+    83	Big Nose Freaks Out
+    84	Big Nose The Caveman
+    85	Bill & Ted's Excellent Adventure
+    86	Bio Miracle Baby Upa 
+    87	Bio-Warrior Dan The Inkliezar Battle
+    88	Bionic Commando
+    89	Blades of Steel
+    90	Blades of Steel Classic Series
+    91	Blaster Master
+    92	Bloody Warriors
+    93	Blues Brothers
+    94	Bomberman
+    95	Bomberman 2
+    96	Bonks Adventure
+    97	Boulder Dash
+    98	Bram Stoker's Dracula
+    99	Break Thru
+   100	Bubble Bath Babes
+   101	Bubble Bobble
+   102	Bubble Bobble 2
+   103	Bucky O'Hare
+   104	Bugs Bunny Birthday Blowout
+   105	Bugs Bunny Crazy Castle
+   106	Bump & Jump
+   107	Burai Fighter
+   108	Burger Time
+   109	Cabal
+   110	Cadillac
+   111	California Games
+   112	Captain America & the Avengers
+   113	Captain Comic
+   114	Captain Planet & the Planeteers
+   115	Captain Silver
+   116	Captain Skyhawk
+   117	Captain Tsubasa 2
+   118	Casino Kid
+   119	Casino Kid 2
+   120	Castelian
+   121	Castle of Deceit
+   122	Castle of Dragon
+   123	Castle Quest
+   124	Castlequest
+   125	Castlevania
+   126	Castlevania II Simon's Quest
+   127	Castlevania III Dracula's Curse
+   128	Caveman Games
+   129	Challenge of the Dragon
+   130	Chaos World
+   131	Chester Field
+   132	Chiller
+   133	Chip & Dale Rescue Rangers
+   134	Chip & Dale Rescue Rangers 2
+   135	Choujin Sentai Jetman
+   136	Chronicle of the Radia War
+   137	Chubby Cherub
+   138	Chuka Taisen
+   139	Circus Caper
+   140	City Connection
+   141	Clash at Demonhead
+   142	Classic Concentration
+   143	Cliffhanger
+   144	Clu Clu Land
+   145	Cobra Command
+   146	Cobra Triangle
+   147	Cocoron
+   148	Code Name Viper
+   149	Columbus Golden Dawn
+   150	Commando
+   151	Conan The Mysteries of Time
+   152	Conflict
+   153	Conquest of the Crystal Palace
+   154	Contra
+   155	Contra Force
+   156	Cool World
+   157	Cosmic Epsilon
+   158	Cosmo Genesis
+   159	Cosmo Police Galivan
+   160	Cowboy Kid
+   161	Crash'n the Boys Street Challenge
+   162	Crisis Force
+   163	Crystal Mines
+   164	Crystalis
+   165	Cyberball
+   166	Cybernoid
+   167	Dai Senryaku
+   168	Dark Lord
+   169	Darkman
+   170	Darkwing Duck
+   171	Dash Galaxy in the Alien Asylum
+   172	Day Dreamin' Davey
+   173	Days of Thunder
+   174	Deadly Towers
+   175	Death Race
+   176	Deathbots
+   177	Debias Legendary Space-Time Hero
+   178	Deep Dungeon IV The Black Sorcerer
+   179	Defender II
+   180	Defender of the Crown
+   181	Defenders of Dynatron City
+   182	Deja Vu
+   183	Demon Sword
+   184	Desert Commander
+   185	Destination Earth Star
+   186	Destiny of an Emperor 2 The Story of Zhuge Liang
+   187	Destiny of an Emporer
+   188	Devilman
+   189	Dezaemon
+   190	Dick Tracy
+   191	Die Hard
+   192	Dig Dug II
+   193	Digger Legend of the Lost City
+   194	Dirty Harry War Against Drugs
+   195	Disney's Adventures in the Magic Kingdom
+   196	Dizzy the Adventurer
+   197	Donkey Kong
+   198	Donkey Kong 3
+   199	Donkey Kong Classics
+   200	Donkey Kong Jr 
+   201	Donkey Kong Jr Math
+   202	Doraemon
+   203	Doraemon The Revenge of Giga Zombie
+   204	Double Dare
+   205	Double Dragon
+   206	Double Dragon II The Revenge
+   207	Double Dragon III The Sacred Stone
+   208	Double Strike
+   209	Dr Chaos
+   210	Dr Jekyll & Mr Hyde
+   211	Dr Jekyll and Mr Hyde
+   212	Dr Mario
+   213	Dragon Ball Dragon Mystery
+   214	Dragon Ball Revival of the Dark Lord
+   215	Dragon Ball Z Assault of the Saiyans
+   216	Dragon Ball Z Gaiden Plan to Eliminate the Saiyans
+   217	Dragon Ball Z III Killer Androids
+   218	Dragon Buster II Seal of Darkness
+   219	Dragon Fighter
+   220	Dragon Ninja
+   221	Dragon Power
+   222	Dragon Scroll - Resurrection of the Demon Dragon
+   223	Dragon Spirit The New Legend
+   224	Dragon Warrior
+   225	Dragon Warrior II
+   226	Dragon Warrior III
+   227	Dragon Warrior IV
+   228	Dragon's Lair
+   229	Dream Master
+   230	Dream Penguin Adventure
+   231	Duck Hunt
+   232	Duck Tales
+   233	Duck Tales II
+   234	Dudes with Attitudes
+   235	Dungeon Magic Sword of the Elements
+   236	Dusty Diamond's All-Star Softball
+   237	Dynowarz The Destruction of Spondylus
+   238	Eggerland Revival of the Labyrinth
+   239	Elevator Action
+   240	Eliminator Boat Duel
+   241	Elysion
+   242	Empire Strikes Back Star Wars
+   243	Esper Corps
+   244	Esper Dream 2
+   245	Excitebike
+   246	Exodus
+   247	F-117A Stealth Fighter
+   248	F-15 City War
+   249	F-16 Strike Eagle
+   250	Famicom Wars
+   251	Family Fued
+   252	Fantastic Adventures of Dizzy
+   253	Fantasy Zone
+   254	Faria
+   255	Faxanadu
+   256	Felix the Cat
+   257	Fester's Quest
+   258	Final Fantasy
+   259	Final Fantasy II
+   260	Final Fantasy III
+   261	Final Mission
+   262	Fire 'n Ice
+   263	Fire Emblem
+   264	Fire Emblem Gaiden
+   265	Fire Hawk
+   266	Fist of the North Star
+   267	Flight of the Intruder
+   268	Flintstones The Rescue of Dino and Hoppy
+   269	Flintstones The Surprise at Dinosaur Peak
+   270	Flying Dragon The Secret Scroll
+   271	Flying Warriors
+   272	Frankenstein The Monster Returns
+   273	Freedom Force
+   274	Friday the 13th
+   275	Fun House
+   276	Future Soldier - Lios
+   277	Fuzzical Fighter
+   278	G I Joe A Real American Hero
+   279	G I Joe The Atlantis Factor
+   280	Galactic Crusader
+   281	Galaga
+   282	Galaxy 5000
+   283	Ganbare Goemon
+   284	Ganbare Goemon 2
+   285	Gargoyle's Quest II
+   286	Gemfire
+   287	Genghis Khan
+   288	Getsu Fuuma Den
+   289	Ghost Hunter
+   290	Ghostbusters
+   291	Ghostbusters II
+   292	Ghosts 'n Goblins
+   293	Ghoul School
+   294	Gilligan's Island
+   295	Go Go Nekketsu Hockey Club
+   296	Godzilla
+   297	Godzilla 2 War of the Monsters
+   298	Golf
+   299	Golgo 13 Top Secret Episode
+   300	Goonies II The
+   301	Gorby’s Pipeline Great Military Operation
+   302	Gotcha 
+   303	Gourmet
+   304	Gradius
+   305	Grand Master
+   306	Gravity Armor Metal Storm
+   307	Great Maze The Master of the Maze
+   308	Great Waldo Search
+   309	Gremlins 2 The New Batch
+   310	Guantlet
+   311	Guantlet II
+   312	Guardian Legend The
+   313	Guerilla War
+   314	Gun Smoke
+   315	Gun-Nac
+   316	Gyruss
+   317	Harlem Globetrotters
+   318	Hatris
+   319	Heavy Barrel
+   320	Heavy Shreddin'
+   321	Hello Kitty World
+   322	Hello Kitty's Flower Shop
+   323	Heracles no Eikou II Titan no Metsubo
+   324	Heracles no Eikou Toujin Makyou Den
+   325	Higemaru Seven Islands Adventure
+   326	High Speed
+   327	Hirake Ponkikki
+   328	Hollywood Squares
+   329	Holy Diver
+   330	Home Alone
+   331	Home Alone 2 Lost in New York
+   332	Honoo No Toukyuuji - Dodge Danpei
+   333	Honoo No Toukyuuji - Dodge Danpei 2
+   334	Hook
+   335	Hoops
+   336	Hot Slots
+   337	Hotman
+   338	Hudson Hawk
+   339	Hunt for the Red October
+   340	Hydlide
+   341	I'm Kid Dracula 
+   342	Ice Climber
+   343	Ice Hockey
+   344	Ikari Warriors
+   345	Ikari Warriors II Victory Road
+   346	Ikari Warriors III The Rescue
+   347	Image Fight
+   348	Immortal The
+   349	Impossible Mission II
+   350	Incredible Crash Dummies The
+   351	Indiana Jones and the Last Crusade
+   352	Indiana Jones and the Temple of Doom
+   353	Infiltrator
+   354	Insector X
+   355	Iron Tank
+   356	Ironsword Wizards & Warriors II
+   357	Isolated Warrior
+   358	J-League Winning Goal
+   359	Jackal
+   360	Jackie Chan's Action Kung-Fu
+   361	James Bond Jr 
+   362	Jaws
+   363	Jeopardy 
+   364	Jeopardy 25th Silver Anniversary Edition
+   365	Jeopardy Junior Edition
+   366	Jesus Kyoufu no Bio Monster
+   367	Jetsons Cogswell's Capers
+   368	JJ Jump Out The Epic War - Part II
+   369	Joe & Mac
+   370	Joshua
+   371	Journey to Silius
+   372	Joust
+   373	Joy Mech Fight
+   374	Jungle Book
+   375	Jurassic Park
+   376	Just Breed
+   377	Kabuki Quantum Fighter
+   378	Kabuki-Quantum Fighter
+   379	Kantaro the Pyro's Journey Across the Toukaido
+   380	Karate Champ
+   381	Karate Kid
+   382	Karnov
+   383	Kart Fighter
+   384	Kero Kero Keroppi's Big Adventure
+   385	Kero Kero Keroppi's Great Big Adventure 2 Trouble in Donut Pond
+   386	Keroppi & Keroleen's Splash Bomb
+   387	Kick Master
+   388	Kickle Cubicle
+   389	Kid Icarus
+   390	Kid Klown in Night Mayor World
+   391	Kid Kool
+   392	Kid Niki
+   393	Kid Niki 2 Karakuri Land
+   394	Kid Niki 3
+   395	King Kong Lives - Megaton Punch of Rage
+   396	King Neptune's Adventure
+   397	King of Kings
+   398	King's Knight
+   399	King's Quest V
+   400	Kings of the Beach
+   401	Kinnikuman Muscle Tag Match
+   402	Kirby's Adventure
+   403	Kiwi Kraze
+   404	Klash Ball
+   405	Klax
+   406	Knight Rider
+   407	Knights of the Zodiac Legend of the Gold
+   408	Krazy Kreatures
+   409	Krion Conquest The
+   410	Krusty's Funhouse
+   411	Kung Fu
+   412	Kung Fu Heroes
+   413	Kunio Kun no Nekketsu Soccer League
+   414	Kyoryu Sentai ZyuRanger
+   415	L'Empereur
+   416	Labyrinth
+   417	Laser Invasion
+   418	Last Action Hero
+   419	Last Ninja The
+   420	Last Starfighter The
+   421	Lee Trevino's Fighting Golf
+   422	Legacy of the Wizard
+   423	Legend of Kage
+   424	Legend of the Ghost Lion The
+   425	Legend of Zelda
+   426	Legendary Wings
+   427	Legends of the Diamond
+   428	Lemmings
+   429	Lethal Weapon
+   430	Life Force
+   431	Linus Spacehead's Cosmic Crusade
+   432	Little Ghosts
+   433	Little Mermaid The
+   434	Little Nemo The Dream Master
+   435	Little Ninja Brothers
+   436	Little Samson
+   437	Lode Runner
+   438	Lone Ranger The
+   439	Loopz
+   440	Low G-Man
+   441	Lunar Pool
+   442	Lupin the 3rd Pandora's Legacy
+   443	M C Kids
+   444	M U L E 
+   445	M U S C L E 
+   446	Mach Rider
+   447	Mad Max
+   448	Madara
+   449	Mafat Conspiracy
+   450	Magic of Scheherazade
+   451	Magical Doropie
+   452	Magician
+   453	Magmax
+   454	Maharaja
+   455	Major League Baseball
+   456	Maniac Mansion
+   457	Mappyland
+   458	Marble Madness
+   459	Mario Bros 
+   460	Mario is Missing
+   461	Mario's Time Machine
+   462	Marvel's X-Men
+   463	Master Chu and the Drunkard Hu
+   464	Maze of Galious
+   465	Mechanized Attack
+   466	Mega Man
+   467	Mega Man 2
+   468	Mega Man 3
+   469	Mega Man 4
+   470	Mega Man 5
+   471	Mega Man 6
+   472	Mega Man II
+   473	Menace Beach
+   474	Mendel Palace
+   475	Mermaids of Atlantis
+   476	Metal Fighter
+   477	Metal Gear
+   478	Metal Mech
+   479	Metal Storm
+   480	Metroid
+   481	Mickey Mouse 3 - Yume Fuusen
+   482	Mickey Mousecapade
+   483	Mickey's Adventures in Numberland
+   484	Mickey's Safari in Letterland
+   485	Micro Machines
+   486	Mig 29 Soviet Fighter
+   487	Might & Magic Secret of the Inner Sanctum
+   488	Mighty Bomb Jack
+   489	Mighty Final Fight
+   490	Mike Tyson's Punch-Out 
+   491	Millipede
+   492	Milon's Secret Castle
+   493	Minelvaton Saga
+   494	Mini Putt
+   495	Mirai Shinwa Jarvas
+   496	Mission Cobra
+   497	Mission Impossible
+   498	Mitsume ga Tooru
+   499	Moai Kun
+   500	Monopoly
+   501	Monster in my Pocket
+   502	Monster Party
+   503	Monster Truck Rally
+   504	Moon Crystal
+   505	Moon Princess Legend
+   506	Moon Ranger
+   507	Motocross Champion
+   508	Motor City Patrol
+   509	Ms Pac-Man
+   510	Muppet Adventure Chaos at the Carnival
+   511	Mutant Virus The
+   512	Mystery Quest
+   513	Nadia - Secret of the Blue Water
+   514	Nakayoshi to Issho
+   515	NARC
+   516	Naughty Kokkun's Gourmet World
+   517	Nekketsu Street Basket - Ganbare Dunk Heroes
+   518	Nightmare on Elmstreet
+   519	Nightshade
+   520	Ninja Boy 2
+   521	Ninja Crusaders
+   522	Ninja Gaiden
+   523	Ninja Gaiden II The Dark Sword of Chaos
+   524	Ninja Gaiden III The Ancient Ship of Doom
+   525	Ninja Jajamaru
+   526	Ninja Jajamaru Galactic Battle
+   527	Ninja Jajamaru Legend of a Demon's Attack Castle of Dreams
+   528	Ninja Jajamaru's Big Adventure
+   529	Ninja Kid
+   530	Nobunaga's Ambition
+   531	Nobunaga's Ambition II
+   532	North and South
+   533	Operation Secret Storm
+   534	Operation Wolf
+   535	Overlord
+   536	P O W Prosoners of War
+   537	P'radikus Conflict
+   538	Paaman 2 Down with the Secret Madou Society 
+   539	Pac-Man
+   540	Pac-Mania
+   541	Palamedes
+   542	Panic Restaurant
+   543	Paperboy
+   544	Paperboy 2
+   545	Parallel World
+   546	Parodius Da 
+   547	Peacock King
+   548	Peacock King II
+   549	Penguin Kun Wars
+   550	Pescatore
+   551	Pesterminator
+   552	Peter Pan and the Pirates
+   553	Phantom Fighter
+   554	Phoenix Gao's Adventure
+   555	Pinball
+   556	Pinball Quest
+   557	Pinbot
+   558	Pipe Dream
+   559	Pirates 
+   560	Platoon
+   561	Popeye
+   562	Popeye's Lingo Game
+   563	PORTOPIA Serial Murder Case The
+   564	Power Blade
+   565	Power Blade 2
+   566	Power Blazer
+   567	Power Punch II
+   568	Predator
+   569	Prince of Persia
+   570	Princess Tomato in the Salad Kingdom
+   571	Princesstual Orgy
+   572	Pro Wrestling
+   573	Puggsley's Scavenger Hunt
+   574	Punch Out 
+   575	Punisher The
+   576	Puss 'n Boots Pero's Great Adventure
+   577	Puyo Puyo
+   578	Puzzle
+   579	Puzznic
+   580	Pyramid
+   581	Q*Bert
+   582	Qix
+   583	R C Pro-Am
+   584	R C Pro-Am II
+   585	Racket Attack
+   586	Rad Gravity
+   587	Rad Racer
+   588	Rad Racer II
+   589	Rad Racket Tennis
+   590	Raging Fire - Recca
+   591	Raid 2020
+   592	Raid on Bungeling Bay
+   593	Rainbow Islands
+   594	Rainbow Silkroad
+   595	Rambo
+   596	Rampage
+   597	Rampart
+   598	Remote Control
+   599	Ren & Stimpy Show Buckaroo$
+   600	Renegade
+   601	Rescue Embassy Mission
+   602	Ring King
+   603	River City Ransom
+   604	River City Ransom Zero
+   605	Road Blasters
+   606	Road Runner
+   607	Robin Hood Prince of Thieves
+   608	Robocco Wars
+   609	RoboCop
+   610	RoboCop 2
+   611	RoboCop 3
+   612	RoboDemons
+   613	Robowarrior
+   614	Rock 'n Ball
+   615	Rocket Ranger
+   616	Rocketeer
+   617	Rockin' Kats
+   618	Rocky & Bullwinkle
+   619	Rollerball
+   620	Rollergames
+   621	Rolling Thunder
+   622	Romance of the Three Kingdoms
+   623	Romance of the Three Kingdoms II
+   624	Romancia
+   625	Roundball 2 on 2 Challenge
+   626	Rush 'n Attack
+   627	Rygar
+   628	S C A T 
+   629	Saint Seiya - Knights of the Zodiac The Golden Legend - Final Chapter
+   630	Saiyuki World II Evil Spirit of Heaven
+   631	Samurai Pizza Cats
+   632	Sanrio Carnival 2
+   633	Sanrio Cup Pon Pon Volley
+   634	SD Detective Blader
+   635	SD Splatterhouse
+   636	Secret Scout
+   637	Section Z
+   638	Seicross
+   639	Sesame Street 123
+   640	Sesame Street ABC
+   641	Sesame Street ABC - 123
+   642	Sesame Street Big Bird's Hide & Speak
+   643	Sesame Street Countdown
+   644	Shadow of the Ninja
+   645	Shadowgate
+   646	Shatterhand
+   647	Shell Monsters Story
+   648	Shi Kin Jou
+   649	Shingen the Ruler
+   650	Shinobi
+   651	Shinsenden
+   652	Shockwave
+   653	Short Order / Eggsplode
+   654	Shufflepuck Cafe
+   655	Silent Assault
+   656	Silent Service
+   657	Silkworm
+   658	Silva Saga
+   659	Silver Surfer
+   660	Simpsons Bart vs the Space Mutants
+   661	Simpsons Bart vs the World
+   662	Simpsons Bartman Meets Radioactive Man
+   663	Skate or Die
+   664	Skate or Die 2 Search for Double Trouble
+   665	Ski or Die
+   666	Skull & Crossbones
+   667	Sky Kid
+   668	Sky Shark
+   669	Slalom
+   670	Smash T V 
+   671	Snake Rattle 'n Roll
+   672	Snake's Revenge Metal Gear II
+   673	Snoopy's Silly Sports Spectacular
+   674	Snow Bros 
+   675	Soccer
+   676	Softball Heaven
+   677	Solar Jetman Hunt for the Golden Warpship
+   678	Soldier of Light Photon The Ultimate Game on Planet Earth
+   679	Solitaire
+   680	Solomon's Key
+   681	Solstice
+   682	Space Shuttle Project
+   683	Spartan X 2
+   684	Spelunker
+   685	Spelunker 2
+   686	Spider-Man Return of the Sinister Six
+   687	Spiritual Warfare
+   688	Spooky Kitaro 2 Kitaro vs Yokai Army
+   689	Spooky Kitaro in the Yokai World
+   690	Spot
+   691	Spy Hunter
+   692	Spy vs Spy
+   693	Sqoon
+   694	Stack-Up
+   695	Stanley The Search for Dr Livingston
+   696	Star Force
+   697	Star Soldier
+   698	Star Trek 25th Anniversary
+   699	Star Trek The Next Generation
+   700	Star Tropics
+   701	Star Tropics II Zoda's Revenge
+   702	Star Voyager
+   703	Star Wars
+   704	Starship Hector
+   705	Stealth ATF
+   706	STED - Starfield of Memorable Relics
+   707	Stinger
+   708	Storehouse No 18
+   709	Street Cop
+   710	Street Fighter 2010 The Final Fight
+   711	Strider
+   712	Stunt Kids
+   713	Sugoro Quest
+   714	Sunday Funday
+   715	Super C
+   716	Super Cars
+   717	Super Dodge Ball
+   718	Super Jeopardy 
+   719	Super Mario Bros 
+   720	Super Mario Bros 2
+   721	Super Mario Bros 3
+   722	Super Off-Road Ivan "Iron Man" Stewart's
+   723	Super Pitfall
+   724	Super Spy Hunter
+   725	Superman
+   726	Swamp Thing
+   727	Sweet Home
+   728	Sword Master
+   729	Swords & Serpents
+   730	T & C Surf Designs
+   731	Tabo's Tactics
+   732	Tagin Dragon
+   733	Takeshi no Chousenjou
+   734	TaleSpin
+   735	TAO
+   736	Target Renegade
+   737	Technos Samurai - Downtown Special 
+   738	Tecmo Bowl
+   739	Tecmo Super Bowl
+   740	Teenage Mutant Ninja Turtles
+   741	Teenage Mutant Ninja Turtles Arcade Game
+   742	Teenage Mutant Ninja Turtles III The Manhattan Project
+   743	Teenage Mutant Ninja Turtles Tournament Fighters
+   744	Terminator
+   745	Terminator 2 Judgement Day
+   746	Terra Cresta
+   747	Tetrastar
+   748	Tetris
+   749	Tetris 2
+   750	The Adventures of Bayou Billy
+   751	The Genius Bakabon
+   752	The Most Dangerous Detectives
+   753	The Three Stooges
+   754	Thunder & Lightning
+   755	Thunderbirds
+   756	Thundercade
+   757	Tiger-Heli
+   758	Tiles of Fate
+   759	Time Lord
+   760	Time Zone
+   761	Times of Lore
+   762	Tiny Toon Adventures
+   763	Tiny Toon Adventures 2 Trouble in Wackyland
+   764	Tiny Toon Adventures Cartoon Workshop
+   765	Titanic
+   766	To the Earth
+   767	Toki
+   768	Tokkyuu Shirei Solbrain
+   769	Tom & Jerry
+   770	Tombs & Treasure
+   771	Toobin'
+   772	Top Gun
+   773	Top Gun The Second Mission
+   774	Total Recall
+   775	Totally Rad
+   776	Touchdown Fever
+   777	Toukon Club
+   778	Town & Country II Thrilla's Surfari
+   779	Toxic Crusaders
+   780	Transformers - Mystery of Convoy
+   781	Treasure Master
+   782	Trog
+   783	Trojan
+   784	Trolls on Treasure Island
+   785	Twin Cobra
+   786	Twin Eagle
+   787	TwinBee 3 The Aimless Demon King
+   788	Ultima Exodus
+   789	Ultima Quest of the Avatar
+   790	Ultima Warriors of Destiny
+   791	Ultimate Air Combat
+   792	Ultimate Stuntman
+   793	Uncharted Waters
+   794	Uninvited
+   795	Untouchables The
+   796	Urban Champion
+   797	Urusei Yatsura - Lum's Wedding Bell
+   798	Valis The Fantasm Soldier
+   799	Valkyrie's Adventure - Legend of the Time Key
+   800	Vice Project Doom
+   801	Vindicators
+   802	Volleyball
+   803	Wacky Races
+   804	Wagyan Land
+   805	Wai Wai World 2 - SOS from Parsley Castle
+   806	Wall Street Kid
+   807	Wally Bear & the No Gang
+   808	Wario's Woods
+   809	Wayne's World
+   810	Werewolf - The Last Warrior
+   811	Werewolf The Last Warrior
+   812	Wheel of Fortune
+   813	Wheel of Fortune Family Edition
+   814	Wheel of Fortune Featuring Vanna White
+   815	Wheel of Fortune Jr Edition
+   816	Where in Time is Carmen Sandiego
+   817	Where's Waldo
+   818	Who Framed Roger Rabbit
+   819	Whomp 'Em
+   820	Widget
+   821	Willow
+   822	Wily & Light's Rockboard That's Paradise 
+   823	Win Lose or Draw
+   824	Wit's
+   825	Wizardry II Knight of Diamonds
+   826	Wizardry Proving Grounds of the Mad Overlord
+   827	Wizards & Warriors
+   828	Wizards & Warriors III Kuros Visions of Power
+   829	Wolverine
+   830	Woody Poko
+   831	World Rally Championship
+   832	Wrath of the Black Manta
+   833	Wrecking Crew
+   834	Wurm Journey to the Center of the Earth
+   835	X-Men
+   836	Xenophobe
+   837	Xevious
+   838	Xexyz
+   839	Yo Noid
+   840	Yoshi
+   841	Yoshi's Cookie
+   842	Youkai Club
+   843	Young Indiana Jones Chronicles
+   844	Ys
+   845	Ys II Ancient Ys Vanished - The Final Chapter
+   846	Ys III Wanderers from Ys
+   847	Zanac
+   848	Zelda II The Adventures of Link
+   849	Zen Intergalactic Ninja
+   850	Zombie Hunter
+   851	Zombie Nation

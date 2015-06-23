@@ -1,0 +1,534 @@
+     1	688 Attack Sub
+     2	Aaahh!!! Real Monsters
+     3	Abrams Battle Tank
+     4	Action 52
+     5	Addams Family Values
+     6	Addams Family, The
+     7	Adventures of Batman & Robin
+     8	Adventures of Mighty Max
+     9	Adventures of Rocky & Bullwinkle and Friends
+    10	Aero the Acrobat
+    11	Aero the Acrobat 2
+    12	Aerobiz
+    13	Aerobiz Supersonic
+    14	After Burner II
+    15	Air Buster
+    16	Air Diver
+    17	Aladdin
+    18	Alex Kidd: Enchanted Castle
+    19	Alien 3
+    20	Alien Storm
+    21	Alisia Dragoon
+    22	Altered Beast
+    23	American Gladiators
+    24	Animaniacs
+    25	Aquatic Games starring James Pond
+    26	Arcade Classics
+    27	Arch Rivals
+    28	Arcus Odyssey
+    29	Ariel the Little Mermaid, Disney's
+    30	Arrow Flash
+    31	Art Alive
+    32	Art of Fighting
+    33	Asterix: Great Rescue
+    34	Atomic Robo-Kid
+    35	Atomic Runner
+    36	ATP Tour Championship Tennis
+    37	Awesome Possum
+    38	B.O.B.
+    39	Back to the Future: Part 3
+    40	Balloon Boy / Funny World
+    41	Ballz
+    42	Barbie Super Model
+    43	Barbie Vacation Adventure
+    44	Barney's Hide & Seek
+    45	Batman Forever
+    46	Batman Returns
+    47	Batman: Revenge of the Joker
+    48	Batman
+    49	Battle Frenzy
+    50	Battle Squadron
+    51	Battlemaster
+    52	Battletech: Armored Combat
+    53	Battletoads
+    54	Battletoads & Double Dragon
+    55	Beast Wrestler
+    56	Beauty and the Beast: Belle's Quest
+    57	Beauty and the Beast: Roar of the Beast
+    58	Beavis and Butt-Head, MTV's
+    59	Beethoven
+    60	Berenstain Bears: Camping Adventure
+    61	Beyond Oasis
+    62	Bible Adventures
+    63	Bimini Run
+    64	Bio-Hazard Battle
+    65	Blaster Master 2
+    66	Block Out
+    67	Bonanza Bros.
+    68	Bonkers
+    69	Boogerman: A Pick and Flick Adventure
+    70	Bram Stoker's Dracula
+    71	Brutal: Paws of Fury
+    72	Bubba 'n' Stix
+    73	Bubble and Squeak
+    74	Bubsy
+    75	Bubsy II
+    76	Buck Rogers: Countdown to Doomsday
+    77	Budokan: The Martial Spirit
+    78	Bugs Bunny in Double Trouble
+    79	Burning Force
+    80	Cadash
+    81	Calibur .50
+    82	California Games
+    83	Captain America & the Avengers
+    84	Castle of Illusion starring Mickey Mouse
+    85	Castlevania: Bloodlines
+    86	Centurion: Defender of Rome
+    87	Chakan: The Forever Man
+    88	Chase H.Q. 2
+    89	Chester Cheetah: Too Cool to Fool
+    90	Chester Cheetah 2: Wild Wild Quest
+    91	Chiki Chiki Boys
+    92	Chuck Rock
+    93	Chuck Rock II: Son of Chuck
+    94	Clay Fighter
+    95	Cliffhanger
+    96	Clue
+    97	Columns
+    98	Columns 3: Revenge of Columns
+    99	Combat Cars
+   100	Comix Zone
+   101	Contra: Hard Corps
+   102	Cool Spot
+   103	Cosmic Spacehead
+   104	Crack Down
+   105	Crossfire
+   106	Crue Ball
+   107	Crusader of Centy
+   108	Crystal's Pony Tale
+   109	Cutthroat Island
+   110	Cyberball
+   111	CyberCop
+   112	Cyborg Justice
+   113	Dark Castle
+   114	Dashin' Desperados
+   115	Deadly Moves
+   116	Death and Return of Superman
+   117	Death Duel
+   118	Decap Attack
+   119	Demolition Man
+   120	Desert Demolition starring Road Runner & Wile E. Coyote
+   121	Desert Strike: Return to the Gulf
+   122	Devilish
+   123	Dick Tracy
+   124	Dino Land
+   125	Dinosaurs for Hire
+   126	DJ Boy
+   127	Doom Troopers: The Mutant Chronicles
+   128	Double Dragon
+   129	Double Dragon 3: Arcade Game
+   130	Double Dragon V: The Shadow Falls
+   131	Dr. Robotnik's Mean Bean Machine
+   132	Dragon: The Bruce Lee Story
+   133	Dragon's Fury Pinball
+   134	Dragon's Revenge Pinball
+   135	Dune: Battle for Arrakis
+   136	Dungeons & Dragons: Warriors of the Eternal Sun
+   137	Dynamite Duke
+   138	Dynamite Headdy
+   139	Earnest Evans
+   140	Earth Defense
+   141	Earthworm Jim
+   142	Earthworm Jim 2
+   143	Ecco the Dolphin
+   144	Ecco: The Tides of Time
+   145	Ecco Jr.
+   146	El Viento
+   147	Elemental Master
+   148	ESWAT: City Under Siege
+   149	Eternal Champions
+   150	Exile
+   151	Ex-Mutants
+   152	Exodus: Journey to the Promised Land
+   153	Exo-Squad
+   154	F-117 Night Storm
+   155	F-15 Strike Eagle II
+   156	F-22 Interceptor
+   157	Faery Tale Adventure
+   158	Family Fued
+   159	Fantasia
+   160	Fantastic Dizzy
+   161	Fatal Fury
+   162	Fatal Fury 2
+   163	Fatal Labyrinth
+   164	Fatal Rewind
+   165	Fido Dido
+   166	Fighting Masters
+   167	Final Zone
+   168	Fire Shark
+   169	Flashback: Quest for Identity
+   170	Flicky
+   171	Flintstones, The
+   172	Forgotten Worlds
+   173	Frogger
+   174	Fun 'n Games
+   175	Gadget Twins
+   176	Gaiares
+   177	Gain Ground
+   178	Galahad, The Legend of
+   179	Galaxy Force II
+   180	Garfield: Caught in the Act
+   181	Gargoyles
+   182	Gauntlet IV
+   183	Gemfire
+   184	General Chaos
+   185	Generations Lost
+   186	Genghis Khan 2: Clan of the Gray Wolf
+   187	Ghostbusters
+   188	Ghouls 'n Ghosts
+   189	Global Gladiators, Mick & Mack
+   190	G-Loc: Air Battle
+   191	Gods
+   192	Golden Axe
+   193	Golden Axe II
+   194	Goofy's Hysterical History Tour
+   195	Granada
+   196	Great Circus Mystery
+   197	Great Waldo Search
+   198	Greendog: Beached Surfer Dude
+   199	Grind Stormer
+   200	Growl
+   201	Gunstar Heroes
+   202	Hard Drivin'
+   203	Haunting starring Polterguy, The
+   204	Head-On Soccer
+   205	Heavy Nova
+   206	Hellfire
+   207	Herzog Zwei
+   208	High Seas Havoc
+   209	Hit the Ice
+   210	Home Alone
+   211	Home Alone 2: Lost in New York
+   212	Hook
+   213	Humans, The
+   214	Hurricanes
+   215	IMG International Tour Tennis
+   216	Immortal, The
+   217	Incredible Crash Dummies, The
+   218	Incredible Hulk, The
+   219	Indiana Jones and the Last Crusade
+   220	Insector X
+   221	Ishido: The Way of the Stones
+   222	Izzy's Quest for the Olympic Rings
+   223	James Bond 007: The Duel
+   224	James Pond: Underwater Agent
+   225	James Pond 2: Codename Robocod
+   226	James Pond 3: Operation Starfish
+   227	Jammit
+   228	Jennifer Capriati Tennis
+   229	Jeopardy!
+   230	Jeopardy! Deluxe Edition
+   231	Jeopardy! Sports Edition
+   232	Jewel Master
+   233	Joe & Mac
+   234	Joshua and the Battle of Jericho
+   235	Judge Dredd
+   236	Junction
+   237	Jugnle Book, Disney's
+   238	Jungle Strike
+   239	Jurassic Park
+   240	Jurassic Park: Rampage Edition
+   241	Justice League Task Force
+   242	Ka-Ge-Ki: Fists of Steel
+   243	Kid Chameleon
+   244	King of the Monsters
+   245	King of the Monsters 2
+   246	King Salmon: The Big Catch
+   247	King's Bounty: The Conqueror's Quest
+   248	Klax
+   249	Landstalker
+   250	Last Action Hero
+   251	Last Battle
+   252	Lawnmower Man, The
+   253	Lemmings
+   254	Lemmings 2: The Tribes
+   255	Lethal Enforcers
+   256	Lethal Enforcers II: GunFighters
+   257	LHX Attack Chopper
+   258	Liberty or Death
+   259	Light Crusader
+   260	Lightening Force: Quest for the Darkstar
+   261	Lion King, The
+   262	Lost Vikings, The
+   263	Lost World: Jurassic Park , The
+   264	Lotus Turbo Challenge
+   265	Lotus II R.E.C.S.
+   266	M.U.S.H.A.
+   267	The Magic Bus, Scholastic's
+   268	Marble Madness
+   269	Marko's Magic Soccer Ball
+   270	Marsupilami
+   271	Marvel Land
+   272	Mary Shelley's Frankenstein
+   273	Master of Monsters
+   274	Math Blaster: Episode 1
+   275	Mazin Saga Mutant Fighter
+   276	McDonald's TreasureLand Adventure
+   277	Mega Bomberman
+   278	Mega Turrican
+   279	Mercs
+   280	Michael Jackson's Moonwalker
+   281	Mickey Mania: The Timeless Adventures of Mickey Mouse
+   282	Mickey's Ultimate Challenge
+   283	Micro Machines
+   284	Midnight Resistance
+   285	Mig-29 Fighter Pilot
+   286	Might & Magic: Gates to Another World
+   287	Mighty Morphin' Power Rangers
+   288	Mighty Morphin' Power Rangers: The Movie
+   289	Monopoly
+   290	Mortal Kombat
+   291	Mortal Kombat II
+   292	Mortal Kombat 3
+   293	Ms. Pac-Man
+   294	Mutant League Football
+   295	Mutant League Hockey
+   296	Mystic Defender
+   297	Mystical Fighter
+   298	No Escape
+   299	Nobunaga's Ambition
+   300	Normy's Beach Babe-O-Rama
+   301	Onslought
+   302	Ooze, The
+   303	Operation Europe: Path to Victory 1939-1945
+   304	Out of this World
+   305	Out Run
+   306	Out Run 2019
+   307	Out Runners
+   308	Outlander
+   309	Pac-Attack
+   310	Pac-Man 2: The New Adventures
+   311	Pac-Mania
+   312	Pagemaster, The
+   313	Paperboy
+   314	Paperboy 2
+   315	Phantasy Star II
+   316	Phantasy Star III: Generations of Doom
+   317	Phantasy Star IV: The End of the Millenium
+   318	Phantom 2040
+   319	Phelios
+   320	Pink Goes to Hollywood
+   321	Pinocchio
+   322	Pirates of Darkwater
+   323	Pirates! Gold
+   324	Pitfall: The Mayan Adventures
+   325	Pit Fighter: The Ultimate Competition
+   326	Pocahontas
+   327	Populous
+   328	Power Monger
+   329	Powerball
+   330	Predator 2
+   331	Primal Rage
+   332	Prince of Persia
+   333	PTO: Pacific Theater of Operations
+   334	Puggsy
+   335	Punisher, The
+   336	Quackshot starring Donald Duck
+   337	Race Drivin'
+   338	Radical Rex
+   339	Raiden Trad
+   340	Rambo III
+   341	Rampart
+   342	Ranger X
+   343	Rastan Saga II
+   344	Red Zone
+   345	Ren & Stimpy: Stimpy's Invention
+   346	Revenge of Shinobi
+   347	Revolution X featuring Aerosmith
+   348	Richard Scarry's Busytown
+   349	Rings of Power
+   350	Risk
+   351	Risky Woods
+   352	Ristar
+   353	Road Blasters
+   354	Road Rash
+   355	Road Rash 2
+   356	Road Rash 3
+   357	Robocop 3
+   358	Robocop vs. Terminator
+   359	Rock 'n Roll Racing
+   360	Rocket Knight Adventures
+   361	Rolling Thunder 2
+   362	Rolling Thunder 3
+   363	Rolo to the Rescue
+   364	Romance of the Three Kingdoms II
+   365	Sagaia
+   366	Saint Sword
+   367	Samurai Shodown
+   368	Saturday Night Slam Masters
+   369	Scholastic's The Magic Bus
+   370	Scooby-Doo Mystery
+   371	SeaQuest DSV
+   372	Sesame Street Counting Cafe
+   373	Shadow Blasters
+   374	Shadow Dancer: Secret of Shinobi
+   375	Shadow of the Beast
+   376	Shadow of the Beast II
+   377	Shadowrun
+   378	Shanghai II: Dragon's Eye
+   379	Shaq Fu
+   380	Shining in the Darkness, The
+   381	Shining Force
+   382	Shining Force II
+   383	Shinobi III: Revenge of the Ninja Master
+   384	Shove It: The Warehouse Game
+   385	Simpsons: Bart vs. the Space Mutants
+   386	Simpsons: Bart's Nightmare
+   387	Simpsons: Itchy & Scratchy
+   388	Simpsons: Krusty's Super Funhouse
+   389	Simpsons: Virtual Bart
+   390	Skeleton Krew
+   391	Skitchin'
+   392	Slaughtersport
+   393	Slime World, Todd's Adventure in
+   394	Socket
+   395	Sol-Deace
+   396	Soldiers of Fortune
+   397	Sonic & Knuckles
+   398	Sonic 3D Blast
+   399	Sonic Classics
+   400	Sonic Spinball
+   401	Sonic the Hedgehog
+   402	Sonic the Hedgehog 2
+   403	Sonic the Hedgehog 3
+   404	Sorcerer's Kingdom
+   405	Space Harrier II
+   406	Space Invaders '91
+   407	Sparkster
+   408	Speedball 2: Brutal Deluxe
+   409	Spider-Man
+   410	Spider-Man / Venom in Maximum Carnage
+   411	Spider-Man / Venom in Seperation Anxiety
+   412	Spider-Man / X-Men: Arcade's Revenge
+   413	Spider-Man: The Animated Series
+   414	Spiritual Warfare
+   415	Splatterhouse 2
+   416	Splatterhouse 3
+   417	Spot Goes to Hollywood
+   418	Star Control
+   419	Star Trek Deep Space Nine: Crossroads of Time
+   420	Star Trek: The Next Generation
+   421	StarFlight
+   422	Stargate
+   423	Steel Empire
+   424	Steel Talons
+   425	Stormlord
+   426	Street Fighter II: Special Championship Edition
+   427	Street Smart
+   428	Streets of Rage
+   429	Streets of Rage 2
+   430	Streets of Rage 3
+   431	Strider
+   432	Strider Returns: Journey from Darkness
+   433	Sub Terrania
+   434	Sunset Riders
+   435	Super Baseball 2020
+   436	Super Battleship
+   437	Super Battletank: War in the Gulf
+   438	Super Hydlide
+   439	Super Off-Raod
+   440	Super Smash TV
+   441	Super Street Fighter II: The New Challengers
+   442	Super Thunderblade
+   443	Superman
+   444	Sword of Sodon
+   445	Sword of Vermillion
+   446	Syd of Valis
+   447	Sylvester and Tweety in Cagey Capers
+   448	Syndicate
+   449	TaleSpin, Disney's
+   450	Target Earth
+   451	Task Force Harrier EX
+   452	Taz-Mania
+   453	Taz in Escape from Mars
+   454	Techno Clash
+   455	Technocop
+   456	Terminator, The
+   457	Terminator 2: Judgement Day
+   458	T2: The Arcade Game
+   459	Thomas the Tank Engine & Friends
+   460	Thunder Force II
+   461	Thunder Force III
+   462	Thunderfox
+   463	Tick, The
+   464	Time Killers
+   465	Tin Head
+   466	Tiny Toon Adventures: ACME All-Stars
+   467	Tiny Toon Adventures: Busters Hidden Treasure
+   468	Teenage Mutant Ninja Turtles: Hyperstone Heist
+   469	Teenage Mutant Ninja Turtles: Tournament Fighters
+   470	ToeJam & Earl
+   471	ToeJam & Earl: Panic on Funkotron
+   472	Toki: Going Ape Spit
+   473	Top Gear 2
+   474	Toughman Contest
+   475	Toxic Crusaders
+   476	Toy Story
+   477	Toys
+   478	Trampoline Terror
+   479	Traysia
+   480	Trouble Shooter
+   481	True Lies
+   482	Truxton
+   483	Turrican
+   484	Twin Cobra
+   485	Two Crude Dudes
+   486	Tyrants: Flight Through Time
+   487	Ultimate Mortal Kombat 3
+   488	Ultimate Qix
+   489	Uncharted Waters
+   490	Uncharted Waters: New Horizons
+   491	Universal Soldier
+   492	Urban Strike
+   493	Valis: The Phantasm Soldier
+   494	Valis III
+   495	Vapor Trail
+   496	Vectorman
+   497	Vectorman 2
+   498	Viewpoint
+   499	Virtua Fighter 2
+   500	Virtua Racing
+   501	Virtual Pinball
+   502	VR Troopers
+   503	Wardner
+   504	Warlock
+   505	WarpSpeed
+   506	Warrior of Rome
+   507	Warrior of Rome II
+   508	Warsong
+   509	Wayne's World
+   510	WeaponLord
+   511	We're Back! A Dinosaur's Tale
+   512	Whac-a-Critter
+   513	Wheel of Fortune
+   514	Where in Time is Carmen Sandiego
+   515	Where in the World is Carmen Sandiego
+   516	Whip Rush
+   517	Wings of Wor
+   518	Wiz 'n Liz
+   519	Wolfchild
+   520	Wolverine: Adamantium Rage
+   521	Wonder Boy in Monster World
+   522	World Heroes
+   523	World of Illusion with Mickey & Donald
+   524	X-Men
+   525	X-Men 2: Clone Wars
+   526	X-Perts
+   527	Young Indiana Jones: Instruments of Chaos
+   528	Y's III: Wanderers from Y's
+   529	Zero Tolerance
+   530	Zero: The Kamikazee Squirrel
+   531	Zombies Ate My Neighbors
+   532	Zool: Ninja of the 'Nth' Dimension
+   533	Zoom!
+   534	Zoop
